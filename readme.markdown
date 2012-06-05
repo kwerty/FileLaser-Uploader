@@ -22,9 +22,9 @@ Get the beta
 		
 We've just released the first beta (Version 1.0) and we'd love for you to help us test it.
 
-**[Download Kwerty FileLaser Uploader](https://github.com/downloads/kwerty/FileLaser-Uploader/FileLaser-Uploader-1_0-beta.exe)**
+Please note that the **[.NET Framework 4.0](http://www.microsoft.com/en-us/download/details.aspx?id=17851)** is required.
 
-Please note that **[.NET Framework 4.0](http://www.microsoft.com/en-us/download/details.aspx?id=17851)** is required
+**[Download Kwerty FileLaser Uploader](https://github.com/downloads/kwerty/FileLaser-Uploader/FileLaser-Uploader-1_0-beta.exe)**
 
 Please report any issues you run in to on the **[issue page](https://github.com/kwerty/FileLaser-Uploader/issues)**.
 
