@@ -2,7 +2,7 @@ Kwerty FileLaser Uploader
 =========================
 
 
-Kwerty FileLaser Uploader is a free desktop app for uploading files to the **[FileLaser](http://filelaser.com)** service.
+Kwerty FileLaser Uploader is a free desktop app for uploading files to the **[FileLaser](http://filelaser.com)** file sharing service.
 
 
 Upload the files you want to share then copy the URLs and send them to friends, which they can use to download the files. All you need is a free **[FileLaser](http://filelaser.com)** account and you're good to go.
