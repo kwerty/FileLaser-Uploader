@@ -22,9 +22,9 @@ Get the beta
 		
 We've just released the first beta (Version 1.0) and we'd love for you to help us test it.
 
-**[Download Kwerty FileLaser Uploader Setup](https://github.com/downloads/kwerty/FileLaser-Uploader/FileLaser-Uploader-1_0-beta.exe)**
+**[Download Kwerty FileLaser Uploader Setup](https://github.com/downloads/kwerty/FileLaser-Uploader/FileLaser-Uploader-1_0_0_4-beta.exe)**
 
-**[Alternatively you may download a zip file](https://github.com/downloads/kwerty/FileLaser-Uploader/FileLaser-Uploader-1_0-beta.zip)**
+**[Alternatively you may download a zip file](https://github.com/downloads/kwerty/FileLaser-Uploader/FileLaser-Uploader-1_0_0_4-beta.zip)**
 
 Please report any issues you run in to on the **[issue page](https://github.com/kwerty/FileLaser-Uploader/issues)**.
 
