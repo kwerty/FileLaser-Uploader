@@ -1,0 +1,1062 @@
+﻿<Mappings><Entry OldName="UploaderServices.FileLaserUploaderService.StatusChanged" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cdc993ec4c76691af5f0e4ae317f17307" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.UploadCreated" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.c636b7b4cff6a226605fd32808bb4684b" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;Username&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.c8f3c438516ab57621441d5df78d6b687" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;Password&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.ca31bcb862715c3f980337c81c7c3c008" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;LastError&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.ca20b906c6a382158d6543d45cd6772a9" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;Status&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.c887b3373ce4177ba54b5adde256477b6" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;Proxy&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cc1d32f3db14d6550bc976eeb60e1305c" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;Uploads&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cfdf1dbe64b8f71fa9a4c6c7c64619ec0" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;ID&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cbf595b9314f01f67c2c8fb0fc560c631" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;Alias&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.c4fc64b99ea6f59171987857d20cd35da" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;Points&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cf18e50c64c420ae16ceaed0c619bbeb1" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;RefererPoints&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cff6402094401df7c3bd6d53156a3ade0" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;SpaceUsed&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cd4e48610d64edd3dba6e458a2fec84e5" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;IsPremium&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.c93e3472d66e87f05cae2faa5436c70c4" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;PremiumExpiry&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.c394a54a4901f07c6e012dcf161f22e4e" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.&lt;FTPpassword&gt;k__BackingField" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.c29652118fe11104862e2b4f41f86bc68" />
+<Entry OldName="UploaderServices.UploaderStatus.value__" NewName="A.c210bf348af3b48fed049797f0804c56b.value__" />
+<Entry OldName="UploaderServices.UploaderStatus.NotAuthenticated" NewName="A.c210bf348af3b48fed049797f0804c56b.c0be7355d7fe33792a5486b8a6b4b1c94" />
+<Entry OldName="UploaderServices.UploaderStatus.FailedAuthentication" NewName="A.c210bf348af3b48fed049797f0804c56b.cc7ddcdb584ed8efb1dd1cb1fd33e3403" />
+<Entry OldName="UploaderServices.UploaderStatus.Authenticating" NewName="A.c210bf348af3b48fed049797f0804c56b.c510d71af4ca0f2e272f17584d3786821" />
+<Entry OldName="UploaderServices.UploaderStatus.Authenticated" NewName="A.c210bf348af3b48fed049797f0804c56b.c5239bf4ad21bb2f7b3bd7ca29a80c750" />
+<Entry OldName="UploaderServices.UploadEventArgs.&lt;Upload&gt;k__BackingField" NewName="A.cd1c29b2ca52fd4b78c38e6f24797f0bd.c58f24a23a5b7855e76bc53b6c6fe0474" />
+<Entry OldName="UploaderServices.UploaderStatusEventArgs.&lt;Status&gt;k__BackingField" NewName="A.c8722db2b6db1373ead865a7a0a6d9673.c887b3373ce4177ba54b5adde256477b6" />
+<Entry OldName="UploaderServices.InfoResponse.&lt;result&gt;k__BackingField" NewName="A.caa902e2c01e334ab84b3d9385fbb6eb4.cf149c7e2ae73d57d0bddfcc82d839508" />
+<Entry OldName="UploaderServices.InfoResponse.&lt;userdetails&gt;k__BackingField" NewName="A.caa902e2c01e334ab84b3d9385fbb6eb4.ce64f0bcc0aefbdd2cd302592d01347df" />
+<Entry OldName="UploaderServices.UserDetails.&lt;id&gt;k__BackingField" NewName="A.cb7a20996579098276adc593cf3abe4f6.ce7effb17a3db10c1061f2c9509ff2d5f" />
+<Entry OldName="UploaderServices.UserDetails.&lt;alias&gt;k__BackingField" NewName="A.cb7a20996579098276adc593cf3abe4f6.cea3e1430d4accf47dbcb58971b3c9b18" />
+<Entry OldName="UploaderServices.UserDetails.&lt;points&gt;k__BackingField" NewName="A.cb7a20996579098276adc593cf3abe4f6.ce3d545ef4c2d7e2a1981e00563c406c8" />
+<Entry OldName="UploaderServices.UserDetails.&lt;refererpoints&gt;k__BackingField" NewName="A.cb7a20996579098276adc593cf3abe4f6.c15bcb937cb4f4d410196a1f89f066d09" />
+<Entry OldName="UploaderServices.UserDetails.&lt;spaceused&gt;k__BackingField" NewName="A.cb7a20996579098276adc593cf3abe4f6.c04330500e051d03ae6bd70449d909589" />
+<Entry OldName="UploaderServices.UserDetails.&lt;ispremium&gt;k__BackingField" NewName="A.cb7a20996579098276adc593cf3abe4f6.cf13a92c33056e5ab39690aa0ddee65cd" />
+<Entry OldName="UploaderServices.UserDetails.&lt;premiumexpire&gt;k__BackingField" NewName="A.cb7a20996579098276adc593cf3abe4f6.ccb87ccea0caac48ffd3caaaa50dde564" />
+<Entry OldName="UploaderServices.UserDetails.&lt;ftppassword&gt;k__BackingField" NewName="A.cb7a20996579098276adc593cf3abe4f6.cb452c742e227dff3d80146fd9c07ea01" />
+<Entry OldName="UploaderServices.Upload._service" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c0d3e80ad23968ae86675723b089b6453" />
+<Entry OldName="UploaderServices.Upload._uploadId" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ccd2f5e200a119a0067f5ba869ea4e538" />
+<Entry OldName="UploaderServices.Upload._userID" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ccc1e48974427963edc8b2693066454a2" />
+<Entry OldName="UploaderServices.Upload._proxy" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c85b4de864379e29c2dae14bf45cd4219" />
+<Entry OldName="UploaderServices.Upload._errors" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ca11dd22d6cebad3099236c8f90af54d9" />
+<Entry OldName="UploaderServices.Upload._req" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c62228f992643988e9d887d8fa72ecdd5" />
+<Entry OldName="UploaderServices.Upload._fs" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c9bcdd075d7b259d266bb8b517ecd807f" />
+<Entry OldName="UploaderServices.Upload._rs" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ccb30db93a4017653646a3c02b43f5b0f" />
+<Entry OldName="UploaderServices.Upload._buffer" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c8400e44086ad6b2e2366407579004395" />
+<Entry OldName="UploaderServices.Upload._leading" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cf5f033831e37c40f91c1eef935b6be86" />
+<Entry OldName="UploaderServices.Upload._trailing" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c6a70905f10306b218cd10539ce942322" />
+<Entry OldName="UploaderServices.Upload._cancel" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ceda54465af98266e78d8aeca60214511" />
+<Entry OldName="UploaderServices.Upload._filePos" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cb35d476cba4ba53f998dfe3ec074113a" />
+<Entry OldName="UploaderServices.Upload._readLength" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c6b9968f9f24564fb48c7e5d8b92c074d" />
+<Entry OldName="UploaderServices.Upload._checkCounter" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c74039ba82cb9b363cd424fb6eef27336" />
+<Entry OldName="UploaderServices.Upload._windowClock" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ca2c34a2030dd838715d9b83d3ea611ca" />
+<Entry OldName="UploaderServices.Upload._stopwatch" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c90df51d1cc31d76555ee7a169e40d3b3" />
+<Entry OldName="UploaderServices.Upload._speeds" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c061b2a66a9ee632b2094871b342e5552" />
+<Entry OldName="UploaderServices.Upload.StatusChanged" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cdc993ec4c76691af5f0e4ae317f17307" />
+<Entry OldName="UploaderServices.Upload.ProgressChanged" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c14b94fe4825591f73f50930cb6af6d2a" />
+<Entry OldName="UploaderServices.Upload.SpeedChanged" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c9a7c555364e954d8c3bfa1a9748aac8c" />
+<Entry OldName="UploaderServices.Upload.ETAChanged" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c574afc2cfe71e7ed49ac1f29a4743689" />
+<Entry OldName="UploaderServices.Upload.&lt;LastError&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ca20b906c6a382158d6543d45cd6772a9" />
+<Entry OldName="UploaderServices.Upload.&lt;Status&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c887b3373ce4177ba54b5adde256477b6" />
+<Entry OldName="UploaderServices.Upload.&lt;DesiredInterval&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c17bc5ad24f672b1d8150de5ea19c6263" />
+<Entry OldName="UploaderServices.Upload.&lt;IntervalMargin&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ce66ed6dae45ad45d49054734c8ab1984" />
+<Entry OldName="UploaderServices.Upload.&lt;MinBufferSize&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c586255a0c975e3ae24da636f7032937a" />
+<Entry OldName="UploaderServices.Upload.&lt;MaxBufferSize&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c9fa140fbfd3bbf96835da81572c5219a" />
+<Entry OldName="UploaderServices.Upload.&lt;BufferSize&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c4156456330875ba969296835459cbf81" />
+<Entry OldName="UploaderServices.Upload.&lt;InitialWait&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c43297515d13beecd5ac2a69be90dac67" />
+<Entry OldName="UploaderServices.Upload.&lt;AverageOver&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ce38c52ce99afd6b295574d2f848b52ac" />
+<Entry OldName="UploaderServices.Upload.&lt;ResizeBufferAfter&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c482b19fc4e2dd2973d01aee128ca90ff" />
+<Entry OldName="UploaderServices.Upload.&lt;FileName&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c4fbbe0f42d669c7b657dd638aa14d5bc" />
+<Entry OldName="UploaderServices.Upload.&lt;FullPath&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c0bf14a01dd8d2279c51587a24aa5b22c" />
+<Entry OldName="UploaderServices.Upload.&lt;ETA&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cbba83ff2828182464308f2277cfc2eca" />
+<Entry OldName="UploaderServices.Upload.&lt;Speed&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cf0b20417094e698d41310a7278beebf5" />
+<Entry OldName="UploaderServices.Upload.&lt;Progress&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c5dbe5e95984f4df19ac2470ab1667817" />
+<Entry OldName="UploaderServices.Upload.&lt;InfoURL&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c03dca804df10111ea554aabbbbf36b34" />
+<Entry OldName="UploaderServices.Upload.&lt;DeleteCode&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cee8b963cf5fd845b72efccbd9c44119a" />
+<Entry OldName="UploaderServices.Upload.&lt;DownloadURL&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ca01c792a495fc18ead6f66298d81cbe8" />
+<Entry OldName="UploaderServices.Upload.&lt;DeleteURL&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c9e6024aed980a19a99ae89c659fe8505" />
+<Entry OldName="UploaderServices.Upload.&lt;FileID&gt;k__BackingField" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ceadc9461d5dfae268975124a778eea22" />
+<Entry OldName="UploaderServices.UploadResponse.&lt;infourl&gt;k__BackingField" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.cba0c34620e4ab4dc26facfa3a63e94ae" />
+<Entry OldName="UploaderServices.UploadResponse.&lt;deletecode&gt;k__BackingField" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.c7a5b8a13d11dd8d64b4cf1664a33b5fc" />
+<Entry OldName="UploaderServices.UploadResponse.&lt;downloadurl&gt;k__BackingField" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.c1ee24a19ea9120896a7e3056ef3f7eaf" />
+<Entry OldName="UploaderServices.UploadResponse.&lt;result&gt;k__BackingField" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.cf149c7e2ae73d57d0bddfcc82d839508" />
+<Entry OldName="UploaderServices.UploadResponse.&lt;deleteurl&gt;k__BackingField" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.c103eeaafab06df6bddd2c0291125cf52" />
+<Entry OldName="UploaderServices.UploadResponse.&lt;fileid&gt;k__BackingField" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.ceab29bf1d0ced34bc0c9a3b840574926" />
+<Entry OldName="UploaderServices.UploadResponse.&lt;error&gt;k__BackingField" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.c8af82f5d3f949f52b6e700ecc060c433" />
+<Entry OldName="UploaderServices.UploadStatus.value__" NewName="A.c5576946b45fe014cc4056f62ce1cdd04.value__" />
+<Entry OldName="UploaderServices.UploadStatus.Idle" NewName="A.c5576946b45fe014cc4056f62ce1cdd04.Idle" />
+<Entry OldName="UploaderServices.UploadStatus.Uploading" NewName="A.c5576946b45fe014cc4056f62ce1cdd04.Uploading" />
+<Entry OldName="UploaderServices.UploadStatus.Success" NewName="A.c5576946b45fe014cc4056f62ce1cdd04.Success" />
+<Entry OldName="UploaderServices.UploadStatus.Cancelled" NewName="A.c5576946b45fe014cc4056f62ce1cdd04.Cancelled" />
+<Entry OldName="UploaderServices.UploadStatus.Error" NewName="A.c5576946b45fe014cc4056f62ce1cdd04.Error" />
+<Entry OldName="UploaderServices.UploadStatusEventArgs.&lt;Status&gt;k__BackingField" NewName="A.cf13bb07fdf11f24e5f677aff8f96366c.c887b3373ce4177ba54b5adde256477b6" />
+<Entry OldName="UploaderServices.UploadProgressEventArgs.&lt;Progress&gt;k__BackingField" NewName="A.ccb0081da33a6ea24b484c37b1f3630f4.c5dbe5e95984f4df19ac2470ab1667817" />
+<Entry OldName="UploaderServices.UploadETAEventArgs.&lt;ETA&gt;k__BackingField" NewName="A.c97fc8599ead4f459e1e2e73a6b0cb3e4.cbba83ff2828182464308f2277cfc2eca" />
+<Entry OldName="UploaderServices.UploadSpeedEventArgs.&lt;Speed&gt;k__BackingField" NewName="A.cd96848a4ba1afe1c0ba9dc8cc2d50811.cf0b20417094e698d41310a7278beebf5" />
+<Entry OldName="FileLaserUploader.UploadViewModel._main" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c24e5196e4b07460749816e69c6fab5bd" />
+<Entry OldName="FileLaserUploader.UploadViewModel._active" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c07124c2491bb28eec982156bb56192e8" />
+<Entry OldName="FileLaserUploader.UploadViewModel.PropertyChanged" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c25284b834f5b9dfd53ff22c5ea06d4d4" />
+<Entry OldName="FileLaserUploader.UploadViewModel.&lt;Upload&gt;k__BackingField" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c58f24a23a5b7855e76bc53b6c6fe0474" />
+<Entry OldName="FileLaserUploader.UploadViewModel.&lt;ETA&gt;k__BackingField" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.cbba83ff2828182464308f2277cfc2eca" />
+<Entry OldName="FileLaserUploader.UploadViewModel.&lt;Size&gt;k__BackingField" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c69dec74cdce040049db8856dc8c0169f" />
+<Entry OldName="FileLaserUploader.UploadViewModel.&lt;PercentComplete&gt;k__BackingField" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.ce7ee017b998581cefa423c59b53275d9" />
+<Entry OldName="FileLaserUploader.UploadViewModel.&lt;Progress&gt;k__BackingField" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c5dbe5e95984f4df19ac2470ab1667817" />
+<Entry OldName="FileLaserUploader.UploadViewModel.&lt;Speed&gt;k__BackingField" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.cf0b20417094e698d41310a7278beebf5" />
+<Entry OldName="FileLaserUploader.UploadViewModel.&lt;StatusMessage&gt;k__BackingField" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.cf964929c658e00af9baa88e72d257558" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.ProxyDisabled" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c487887ba61d7759985ce4c131c6b0b55" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.StatusChanged" NewName="A.c69ec115c02113a51e9832b458bd00ba7.cdc993ec4c76691af5f0e4ae317f17307" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.LogUpdate" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c64a097c2f808e6b9f5e06fadb8174916" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.&lt;Dispatcher&gt;k__BackingField" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c46515955e016601354d9bf74e6d0c7ff" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.&lt;UploaderService&gt;k__BackingField" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c82ceb70e12608516231ecaf7e965139f" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.&lt;Active&gt;k__BackingField" NewName="A.c69ec115c02113a51e9832b458bd00ba7.cceb21e8ec86954b4980944f938b343e5" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.&lt;Complete&gt;k__BackingField" NewName="A.c69ec115c02113a51e9832b458bd00ba7.cf11bdbded1c80dba9f00f3f3466ea259" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.&lt;FirstTime&gt;k__BackingField" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c3ef32aaf556629861e411253e9aa6154" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.&lt;Username&gt;k__BackingField" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c8f3c438516ab57621441d5df78d6b687" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.&lt;Password&gt;k__BackingField" NewName="A.c69ec115c02113a51e9832b458bd00ba7.ca31bcb862715c3f980337c81c7c3c008" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.&lt;Proxy&gt;k__BackingField" NewName="A.c69ec115c02113a51e9832b458bd00ba7.cc1d32f3db14d6550bc976eeb60e1305c" />
+<Entry OldName="FileLaserUploader.LogEventArgs.&lt;Timestamp&gt;k__BackingField" NewName="A.cf9bff3ec45e06079f3c51838027cb126.c1c076e80308dd725f475a608e25bbf28" />
+<Entry OldName="FileLaserUploader.LogEventArgs.&lt;Message&gt;k__BackingField" NewName="A.cf9bff3ec45e06079f3c51838027cb126.c02a1a67e96c18f8f35a92232da720c44" />
+<Entry OldName="FileLaserUploader.SettingsWindow._main" NewName="A.c290c93a1322f7d8b88d9f63a14299762.c24e5196e4b07460749816e69c6fab5bd" />
+<Entry OldName="FileLaserUploader.SettingsWindow._viewModel" NewName="A.c290c93a1322f7d8b88d9f63a14299762.cef17a88f2267d98ce654c0c1ee5222e9" />
+<Entry OldName="FileLaserUploader.SettingsWindow._authRequired" NewName="A.c290c93a1322f7d8b88d9f63a14299762.ca4769cb986044abb1fdf20656600ae64" />
+<Entry OldName="FileLaserUploader.SettingsWindow.UsernameBox" NewName="A.c290c93a1322f7d8b88d9f63a14299762.c47a28978fe0be79eadf289c92e599670" />
+<Entry OldName="FileLaserUploader.SettingsWindow.PasswordBox" NewName="A.c290c93a1322f7d8b88d9f63a14299762.cc24aa7ec08b623b333be594bab927427" />
+<Entry OldName="FileLaserUploader.SettingsWindow.RemoveButton" NewName="A.c290c93a1322f7d8b88d9f63a14299762.ca166c25efd03d35cb4f94ce649c90a8e" />
+<Entry OldName="FileLaserUploader.SettingsWindow.UseSystemRadio" NewName="A.c290c93a1322f7d8b88d9f63a14299762.c2d1ebdbb8718624e34446f52422dffc8" />
+<Entry OldName="FileLaserUploader.SettingsWindow.UserDefinedRadio" NewName="A.c290c93a1322f7d8b88d9f63a14299762.cc72893e7a878a259c31a0c5fcf38f483" />
+<Entry OldName="FileLaserUploader.SettingsWindow.ProxyAddressBox" NewName="A.c290c93a1322f7d8b88d9f63a14299762.c1524f44b6bf965d38716a18a5d13e98e" />
+<Entry OldName="FileLaserUploader.SettingsWindow.DisableProxyRadio" NewName="A.c290c93a1322f7d8b88d9f63a14299762.c1e5e957f764f3446f603bb586896eb0f" />
+<Entry OldName="FileLaserUploader.SettingsWindow.SaveSettingsButton" NewName="A.c290c93a1322f7d8b88d9f63a14299762.c67988512d7626cce5aa0a2fb7c746e4f" />
+<Entry OldName="FileLaserUploader.SettingsWindow.CancelButton" NewName="A.c290c93a1322f7d8b88d9f63a14299762.c62fec6d2aeae2089867f903a79c9f5f7" />
+<Entry OldName="FileLaserUploader.SettingsWindow._contentLoaded" NewName="A.c290c93a1322f7d8b88d9f63a14299762.cc536cc533ef962a66ec2d2eb027297db" />
+<Entry OldName="FileLaserUploader.Properties.Resources.resourceMan" NewName="A.c1f480122455e1ff4f09fab4ea5977c6c.c26e651434ce5fdd8e593ea3e1a7c087b" />
+<Entry OldName="FileLaserUploader.Properties.Resources.resourceCulture" NewName="A.c1f480122455e1ff4f09fab4ea5977c6c.c863a776cff6dacb614db205162d41eb0" />
+<Entry OldName="FileLaserUploader.MainWindow._aboutWindow" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c6195c77d52aa7d7b4541f4046318f5de" />
+<Entry OldName="FileLaserUploader.MainWindow._settingsWindow" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c78eeeb721298ccb85b64f5310ed91a6f" />
+<Entry OldName="FileLaserUploader.MainWindow.FileLaserAccountMenu" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cca20c47f03e922b713957696be148992" />
+<Entry OldName="FileLaserUploader.MainWindow.FileLaserFilesMenu" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cf72e5602e3e9573c114a17ee3b651b75" />
+<Entry OldName="FileLaserUploader.MainWindow.ClearCompletedMenu" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c63899c758385bce9433857477afb378f" />
+<Entry OldName="FileLaserUploader.MainWindow.ClearUnsucessfulMenu" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c6615684099892d63b918215039c219de" />
+<Entry OldName="FileLaserUploader.MainWindow.AddFileButton" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c28afb37b5ef3f28650a8d845460ab80d" />
+<Entry OldName="FileLaserUploader.MainWindow.CancelButton" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c62fec6d2aeae2089867f903a79c9f5f7" />
+<Entry OldName="FileLaserUploader.MainWindow.SettingsButton" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cc39f88d4b039339aab25f2c1135c48e3" />
+<Entry OldName="FileLaserUploader.MainWindow.HelpButton" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c628d220423efbe3374c4cb6b37ac5310" />
+<Entry OldName="FileLaserUploader.MainWindow.ActiveList" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c96d17b2d8ae3dde220c2f01f99c2359d" />
+<Entry OldName="FileLaserUploader.MainWindow.CancelContextItem" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c60b0e0b10e9dfdd1c69b37d045b08b84" />
+<Entry OldName="FileLaserUploader.MainWindow.AddFileContextItem" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c33f9abc0201a714cda5c8b134a413084" />
+<Entry OldName="FileLaserUploader.MainWindow.CompleteList" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c4b9cc51bd8a5eb64a08c289b279b31a1" />
+<Entry OldName="FileLaserUploader.MainWindow.CopyURLContextItem" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c4051b2913b039eb02c2e88ca4c71e864" />
+<Entry OldName="FileLaserUploader.MainWindow.RestartContextItem" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ca0f4bb4ab39a510c6fe5cf4f4ec27df9" />
+<Entry OldName="FileLaserUploader.MainWindow.ClearContextItem" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c6ae47420de533cf0ee47ff250393b2ff" />
+<Entry OldName="FileLaserUploader.MainWindow.ClearAllContextItem" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c03ad92c13c22ea7ea49d6cb98a965b81" />
+<Entry OldName="FileLaserUploader.MainWindow.ClearUnsuccessfulContextItem" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c58c97228cd5259a971fb6cbaac1886ca" />
+<Entry OldName="FileLaserUploader.MainWindow.AuthenticatePanel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c291743f233a7cc95e8a8322ba86fcaf2" />
+<Entry OldName="FileLaserUploader.MainWindow.UserGrid" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ce9d82880f9e35574a7bdef7b05870447" />
+<Entry OldName="FileLaserUploader.MainWindow.AliasLabel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cabf3b8b432bfe66c889ca579662b5e62" />
+<Entry OldName="FileLaserUploader.MainWindow.AccountTypeLabel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c17dcb7bfff43e4cde6672e4fdef4872a" />
+<Entry OldName="FileLaserUploader.MainWindow.PremiumLinkLabel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c8c81ad3739c1792a5b5c25dcdcc92f12" />
+<Entry OldName="FileLaserUploader.MainWindow.PremiumExpiresLabel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cc5cf823a5e11d96b6e06111dc50cde07" />
+<Entry OldName="FileLaserUploader.MainWindow.SpaceUsedLabel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c7e3c4c0862384e0595fcfdf7a2d82827" />
+<Entry OldName="FileLaserUploader.MainWindow.PointsLabel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c40fc58cbc67cc357970e1d2f0c492f7a" />
+<Entry OldName="FileLaserUploader.MainWindow.ReferrerPointsLabel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c8a88030e10195e8742924c2f40b3e544" />
+<Entry OldName="FileLaserUploader.MainWindow.ftpPasswordBox" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c95438bb57830a69a14fcfac56e139dbf" />
+<Entry OldName="FileLaserUploader.MainWindow.LogBox" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c253a70e97b36dc1fea97ac68c4db8d92" />
+<Entry OldName="FileLaserUploader.MainWindow.AuthRequiredStatus" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c4199a6acdffb41987e20e838bb707da5" />
+<Entry OldName="FileLaserUploader.MainWindow.AuthenticatingStatus" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ccd0182eb0cb20a28cf50d80da71bc9ee" />
+<Entry OldName="FileLaserUploader.MainWindow.AuthenticatedStatus" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c91fbc9e4b6889b7434507f88930eed30" />
+<Entry OldName="FileLaserUploader.MainWindow.StatusUsername" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c286dd0658adab867a9b4645a18ca43f2" />
+<Entry OldName="FileLaserUploader.MainWindow.AuthFailedPanel" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ce7d119096b11ac467a71c2e356ae1f3e" />
+<Entry OldName="FileLaserUploader.MainWindow.AuthFailedError" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cec73d218ad924445c6ed8adde0fb74aa" />
+<Entry OldName="FileLaserUploader.MainWindow._contentLoaded" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cc536cc533ef962a66ec2d2eb027297db" />
+<Entry OldName="FileLaserUploader.MainWindow.&lt;Uploader&gt;k__BackingField" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c70fda2d6526815b880b760deb75229c9" />
+<Entry OldName="FileLaserUploader.MainWindow.CS$&lt;&gt;9__CachedAnonymousMethodDelegate1" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c81ff6a0a12b04bcc140098ca51c473b2" />
+<Entry OldName="FileLaserUploader.MainWindow.CS$&lt;&gt;9__CachedAnonymousMethodDelegate3" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c4d37431fa95060e172e386c0c2286624" />
+<Entry OldName="FileLaserUploader.MainWindow.CS$&lt;&gt;9__CachedAnonymousMethodDelegate5" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cf473470e490bb97dec6286a28e278b92" />
+<Entry OldName="FileLaserUploader.AboutWindow._main" NewName="A.c8796c1621d013bdc11bc16cd4d494833.c24e5196e4b07460749816e69c6fab5bd" />
+<Entry OldName="FileLaserUploader.AboutWindow.VersionTextBlock" NewName="A.c8796c1621d013bdc11bc16cd4d494833.cf07cdf72cdcc2c52a4578e4f77f83da9" />
+<Entry OldName="FileLaserUploader.AboutWindow.LicenseBox" NewName="A.c8796c1621d013bdc11bc16cd4d494833.c287578651224882d7c34783fba552488" />
+<Entry OldName="FileLaserUploader.AboutWindow._contentLoaded" NewName="A.c8796c1621d013bdc11bc16cd4d494833.cc536cc533ef962a66ec2d2eb027297db" />
+<Entry OldName="UploaderServices.FileLaserUploaderService..ctor()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc..ctor()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.Authenticate(String username, String password)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cec0c3fb59c0328d015eb00c72bce1b06(String ce5aa925e7eb80d19a0e1de1096a69908, String ce5e24e783b02986e8aa7131204e6786e)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.AuthenticateInner(Object state)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.ce8fe6694e23dd4805be4bdf1d0770ac7(Object cd9d43632a7c1aca186afd5b1d64f3aa6)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.CreateUpload(String file)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.c6f6228b5b5ae288de6375368a6263f94(String ceef320246ebff73308c0e323191ecbe2)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_Username()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_Username()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_Username(String value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_Username(String value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_Password()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_Password()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_Password(String value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_Password(String value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_LastError()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_LastError()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_LastError(String value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_LastError(String value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_Status()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_Status()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_Status(UploaderStatus value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_Status(c210bf348af3b48fed049797f0804c56b value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_Proxy()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_Proxy()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_Proxy(IWebProxy value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_Proxy(IWebProxy value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_Uploads()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_Uploads()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_Uploads(List`1 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_Uploads(List`1 value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_ID()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_ID()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_ID(Int32 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_ID(Int32 value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_Alias()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_Alias()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_Alias(String value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_Alias(String value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_Points()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_Points()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_Points(Int32 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_Points(Int32 value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_RefererPoints()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_RefererPoints()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_RefererPoints(Int32 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_RefererPoints(Int32 value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_SpaceUsed()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_SpaceUsed()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_SpaceUsed(Int32 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_SpaceUsed(Int32 value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_IsPremium()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_IsPremium()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_IsPremium(Boolean value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_IsPremium(Boolean value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_PremiumExpiry()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_PremiumExpiry()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_PremiumExpiry(DateTime value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_PremiumExpiry(DateTime value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.get_FTPpassword()" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.get_FTPpassword()" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.set_FTPpassword(String value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.set_FTPpassword(String value)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.add_StatusChanged(EventHandler`1 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.add_cdc993ec4c76691af5f0e4ae317f17307(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.remove_StatusChanged(EventHandler`1 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.remove_cdc993ec4c76691af5f0e4ae317f17307(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.add_UploadCreated(EventHandler`1 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.add_c636b7b4cff6a226605fd32808bb4684b(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.remove_UploadCreated(EventHandler`1 value)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.remove_c636b7b4cff6a226605fd32808bb4684b(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.OnStatusChanged(UploaderStatusEventArgs e)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cc810ae4fe162d92bd1f8e5e32159c2b7(c8722db2b6db1373ead865a7a0a6d9673 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService.OnUploadCreated(UploadEventArgs e)" NewName="A.cc4e1f164e983f265a480586c6bb5acfc.cd05d1102203a57d7d245ea3c6362cdf3(cd1c29b2ca52fd4b78c38e6f24797f0bd c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="UploaderServices.UploadEventArgs..ctor(Upload upload)" NewName="A.cd1c29b2ca52fd4b78c38e6f24797f0bd..ctor(cb8e09882e9eebeb72e722892016b92a8 c10b171ea0aa3857143e8f1f2a5e15ee9)" />
+<Entry OldName="UploaderServices.UploadEventArgs.get_Upload()" NewName="A.cd1c29b2ca52fd4b78c38e6f24797f0bd.get_Upload()" />
+<Entry OldName="UploaderServices.UploadEventArgs.set_Upload(Upload value)" NewName="A.cd1c29b2ca52fd4b78c38e6f24797f0bd.set_Upload(cb8e09882e9eebeb72e722892016b92a8 value)" />
+<Entry OldName="UploaderServices.UploaderStatusEventArgs..ctor(UploaderStatus status)" NewName="A.c8722db2b6db1373ead865a7a0a6d9673..ctor(c210bf348af3b48fed049797f0804c56b cc7529e9c4cc50dfd5019e54c8767dd2a)" />
+<Entry OldName="UploaderServices.UploaderStatusEventArgs.get_Status()" NewName="A.c8722db2b6db1373ead865a7a0a6d9673.get_Status()" />
+<Entry OldName="UploaderServices.UploaderStatusEventArgs.set_Status(UploaderStatus value)" NewName="A.c8722db2b6db1373ead865a7a0a6d9673.set_Status(c210bf348af3b48fed049797f0804c56b value)" />
+<Entry OldName="UploaderServices.InfoResponse..ctor()" NewName="A.caa902e2c01e334ab84b3d9385fbb6eb4..ctor()" />
+<Entry OldName="UploaderServices.InfoResponse.get_result()" NewName="A.caa902e2c01e334ab84b3d9385fbb6eb4.get_result()" />
+<Entry OldName="UploaderServices.InfoResponse.set_result(Boolean value)" NewName="A.caa902e2c01e334ab84b3d9385fbb6eb4.set_result(Boolean value)" />
+<Entry OldName="UploaderServices.InfoResponse.get_userdetails()" NewName="A.caa902e2c01e334ab84b3d9385fbb6eb4.get_userdetails()" />
+<Entry OldName="UploaderServices.InfoResponse.set_userdetails(UserDetails value)" NewName="A.caa902e2c01e334ab84b3d9385fbb6eb4.set_userdetails(cb7a20996579098276adc593cf3abe4f6 value)" />
+<Entry OldName="UploaderServices.UserDetails..ctor()" NewName="A.cb7a20996579098276adc593cf3abe4f6..ctor()" />
+<Entry OldName="UploaderServices.UserDetails.get_id()" NewName="A.cb7a20996579098276adc593cf3abe4f6.get_id()" />
+<Entry OldName="UploaderServices.UserDetails.set_id(Int32 value)" NewName="A.cb7a20996579098276adc593cf3abe4f6.set_id(Int32 value)" />
+<Entry OldName="UploaderServices.UserDetails.get_alias()" NewName="A.cb7a20996579098276adc593cf3abe4f6.get_alias()" />
+<Entry OldName="UploaderServices.UserDetails.set_alias(String value)" NewName="A.cb7a20996579098276adc593cf3abe4f6.set_alias(String value)" />
+<Entry OldName="UploaderServices.UserDetails.get_points()" NewName="A.cb7a20996579098276adc593cf3abe4f6.get_points()" />
+<Entry OldName="UploaderServices.UserDetails.set_points(Int32 value)" NewName="A.cb7a20996579098276adc593cf3abe4f6.set_points(Int32 value)" />
+<Entry OldName="UploaderServices.UserDetails.get_refererpoints()" NewName="A.cb7a20996579098276adc593cf3abe4f6.get_refererpoints()" />
+<Entry OldName="UploaderServices.UserDetails.set_refererpoints(Int32 value)" NewName="A.cb7a20996579098276adc593cf3abe4f6.set_refererpoints(Int32 value)" />
+<Entry OldName="UploaderServices.UserDetails.get_spaceused()" NewName="A.cb7a20996579098276adc593cf3abe4f6.get_spaceused()" />
+<Entry OldName="UploaderServices.UserDetails.set_spaceused(Int32 value)" NewName="A.cb7a20996579098276adc593cf3abe4f6.set_spaceused(Int32 value)" />
+<Entry OldName="UploaderServices.UserDetails.get_ispremium()" NewName="A.cb7a20996579098276adc593cf3abe4f6.get_ispremium()" />
+<Entry OldName="UploaderServices.UserDetails.set_ispremium(Boolean value)" NewName="A.cb7a20996579098276adc593cf3abe4f6.set_ispremium(Boolean value)" />
+<Entry OldName="UploaderServices.UserDetails.get_premiumexpire()" NewName="A.cb7a20996579098276adc593cf3abe4f6.get_premiumexpire()" />
+<Entry OldName="UploaderServices.UserDetails.set_premiumexpire(DateTime value)" NewName="A.cb7a20996579098276adc593cf3abe4f6.set_premiumexpire(DateTime value)" />
+<Entry OldName="UploaderServices.UserDetails.get_ftppassword()" NewName="A.cb7a20996579098276adc593cf3abe4f6.get_ftppassword()" />
+<Entry OldName="UploaderServices.UserDetails.set_ftppassword(String value)" NewName="A.cb7a20996579098276adc593cf3abe4f6.set_ftppassword(String value)" />
+<Entry OldName="UploaderServices.Upload..ctor(FileLaserUploaderService main, String filePath)" NewName="A.cb8e09882e9eebeb72e722892016b92a8..ctor(cc4e1f164e983f265a480586c6bb5acfc c9d65f5af3a696ec3448fbca3a73035b4, String ce39d8ccfaa7b5e6a1bcd53134374aff2)" />
+<Entry OldName="UploaderServices.Upload.StartUpload()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c6383269e7b40e7c814e37613853e6d05()" />
+<Entry OldName="UploaderServices.Upload.UploaderStatusChanged(Object sender, UploaderStatusEventArgs e)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ceb597827e0727bba59d449495fd459ea(Object c70b303cc4fea7566b23ddc57a421d85d, c8722db2b6db1373ead865a7a0a6d9673 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="UploaderServices.Upload.StartInner(Object state)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c6cd8cf1cbc2a5d0792228d251617bd82(Object cd9d43632a7c1aca186afd5b1d64f3aa6)" />
+<Entry OldName="UploaderServices.Upload.HandleException(WebException ex)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cb7013f8831043bf60fe79b169808376f(WebException cad91fd3d2538af5cc43a47170eddc336)" />
+<Entry OldName="UploaderServices.Upload.Cleanup()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c28fba38b5699b1daeb94a7459fa12f0d()" />
+<Entry OldName="UploaderServices.Upload.GetRequestStreamCallback(IAsyncResult result)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c698656b317f62cbb54cd2613f2ff58cc(IAsyncResult cce555b540f38d255347ab0a353719b4e)" />
+<Entry OldName="UploaderServices.Upload.WriteLeadingCallback(IAsyncResult result)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c393f88c58d9ada35ff85e7a27dec6688(IAsyncResult cce555b540f38d255347ab0a353719b4e)" />
+<Entry OldName="UploaderServices.Upload.ReadData()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c6142937c5c6c9300ca4ee950c6d5103c()" />
+<Entry OldName="UploaderServices.Upload.ReadCallback(IAsyncResult result)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cd0022412b7274e7791674a7c01680105(IAsyncResult cce555b540f38d255347ab0a353719b4e)" />
+<Entry OldName="UploaderServices.Upload.WriteData()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.ca8f79c26271dd656602cca6ed01f9df6()" />
+<Entry OldName="UploaderServices.Upload.WriteCallback(IAsyncResult result)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cfaff042cf3cc827ed12ebe9128525187(IAsyncResult cce555b540f38d255347ab0a353719b4e)" />
+<Entry OldName="UploaderServices.Upload.SendTrailing()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c5312212d5891ef045f8835f773aac4eb()" />
+<Entry OldName="UploaderServices.Upload.WriteTrailingCallback(IAsyncResult result)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c3c1b5429849303ac03be831e8d5de71f(IAsyncResult cce555b540f38d255347ab0a353719b4e)" />
+<Entry OldName="UploaderServices.Upload.ResponseCallback(IAsyncResult result)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c91350525281ae898721d36cb95b15b62(IAsyncResult cce555b540f38d255347ab0a353719b4e)" />
+<Entry OldName="UploaderServices.Upload.Cancel()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c56b74ad57b4d1de1dd10191d1785c038()" />
+<Entry OldName="UploaderServices.Upload.get_LastError()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_LastError()" />
+<Entry OldName="UploaderServices.Upload.set_LastError(String value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_LastError(String value)" />
+<Entry OldName="UploaderServices.Upload.get_Status()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_Status()" />
+<Entry OldName="UploaderServices.Upload.set_Status(UploadStatus value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_Status(c5576946b45fe014cc4056f62ce1cdd04 value)" />
+<Entry OldName="UploaderServices.Upload.get_DesiredInterval()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_DesiredInterval()" />
+<Entry OldName="UploaderServices.Upload.set_DesiredInterval(Int32 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_DesiredInterval(Int32 value)" />
+<Entry OldName="UploaderServices.Upload.get_IntervalMargin()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_IntervalMargin()" />
+<Entry OldName="UploaderServices.Upload.set_IntervalMargin(Double value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_IntervalMargin(Double value)" />
+<Entry OldName="UploaderServices.Upload.get_MinBufferSize()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_MinBufferSize()" />
+<Entry OldName="UploaderServices.Upload.set_MinBufferSize(Int32 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_MinBufferSize(Int32 value)" />
+<Entry OldName="UploaderServices.Upload.get_MaxBufferSize()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_MaxBufferSize()" />
+<Entry OldName="UploaderServices.Upload.set_MaxBufferSize(Int32 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_MaxBufferSize(Int32 value)" />
+<Entry OldName="UploaderServices.Upload.get_BufferSize()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_BufferSize()" />
+<Entry OldName="UploaderServices.Upload.set_BufferSize(Int32 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_BufferSize(Int32 value)" />
+<Entry OldName="UploaderServices.Upload.get_InitialWait()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_InitialWait()" />
+<Entry OldName="UploaderServices.Upload.set_InitialWait(Int32 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_InitialWait(Int32 value)" />
+<Entry OldName="UploaderServices.Upload.get_AverageOver()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_AverageOver()" />
+<Entry OldName="UploaderServices.Upload.set_AverageOver(Int32 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_AverageOver(Int32 value)" />
+<Entry OldName="UploaderServices.Upload.get_ResizeBufferAfter()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_ResizeBufferAfter()" />
+<Entry OldName="UploaderServices.Upload.set_ResizeBufferAfter(Int32 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_ResizeBufferAfter(Int32 value)" />
+<Entry OldName="UploaderServices.Upload.get_Size()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_c1997370d6ed80dd296780f473094894b()" />
+<Entry OldName="UploaderServices.Upload.get_FileName()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_FileName()" />
+<Entry OldName="UploaderServices.Upload.set_FileName(String value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_FileName(String value)" />
+<Entry OldName="UploaderServices.Upload.get_FullPath()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_FullPath()" />
+<Entry OldName="UploaderServices.Upload.set_FullPath(String value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_FullPath(String value)" />
+<Entry OldName="UploaderServices.Upload.get_ETA()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_ETA()" />
+<Entry OldName="UploaderServices.Upload.set_ETA(Double value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_ETA(Double value)" />
+<Entry OldName="UploaderServices.Upload.get_Speed()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_Speed()" />
+<Entry OldName="UploaderServices.Upload.set_Speed(Double value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_Speed(Double value)" />
+<Entry OldName="UploaderServices.Upload.get_Progress()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_Progress()" />
+<Entry OldName="UploaderServices.Upload.set_Progress(Int64 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_Progress(Int64 value)" />
+<Entry OldName="UploaderServices.Upload.get_InfoURL()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_InfoURL()" />
+<Entry OldName="UploaderServices.Upload.set_InfoURL(String value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_InfoURL(String value)" />
+<Entry OldName="UploaderServices.Upload.get_DeleteCode()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_DeleteCode()" />
+<Entry OldName="UploaderServices.Upload.set_DeleteCode(String value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_DeleteCode(String value)" />
+<Entry OldName="UploaderServices.Upload.get_DownloadURL()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_DownloadURL()" />
+<Entry OldName="UploaderServices.Upload.set_DownloadURL(String value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_DownloadURL(String value)" />
+<Entry OldName="UploaderServices.Upload.get_DeleteURL()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_DeleteURL()" />
+<Entry OldName="UploaderServices.Upload.set_DeleteURL(String value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_DeleteURL(String value)" />
+<Entry OldName="UploaderServices.Upload.get_FileID()" NewName="A.cb8e09882e9eebeb72e722892016b92a8.get_FileID()" />
+<Entry OldName="UploaderServices.Upload.set_FileID(String value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.set_FileID(String value)" />
+<Entry OldName="UploaderServices.Upload.add_StatusChanged(EventHandler`1 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.add_cdc993ec4c76691af5f0e4ae317f17307(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.Upload.remove_StatusChanged(EventHandler`1 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.remove_cdc993ec4c76691af5f0e4ae317f17307(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.Upload.add_ProgressChanged(EventHandler`1 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.add_c14b94fe4825591f73f50930cb6af6d2a(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.Upload.remove_ProgressChanged(EventHandler`1 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.remove_c14b94fe4825591f73f50930cb6af6d2a(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.Upload.add_SpeedChanged(EventHandler`1 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.add_c9a7c555364e954d8c3bfa1a9748aac8c(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.Upload.remove_SpeedChanged(EventHandler`1 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.remove_c9a7c555364e954d8c3bfa1a9748aac8c(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.Upload.add_ETAChanged(EventHandler`1 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.add_c574afc2cfe71e7ed49ac1f29a4743689(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.Upload.remove_ETAChanged(EventHandler`1 value)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.remove_c574afc2cfe71e7ed49ac1f29a4743689(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="UploaderServices.Upload.OnUploadStatusChanged(UploadStatusEventArgs e)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cd73fdd815965dab3a798b7cde5eccbc0(cf13bb07fdf11f24e5f677aff8f96366c c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="UploaderServices.Upload.OnUploadProgressChanged(UploadProgressEventArgs e)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.c76da8ebf88e50f69397e120de5ff7bd5(ccb0081da33a6ea24b484c37b1f3630f4 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="UploaderServices.Upload.OnUploadSpeedChanged(UploadSpeedEventArgs e)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cb12a76b609eb9681b880cbceec5e042d(cd96848a4ba1afe1c0ba9dc8cc2d50811 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="UploaderServices.Upload.OnUploadETAChanged(UploadETAEventArgs e)" NewName="A.cb8e09882e9eebeb72e722892016b92a8.cc29c312abe83d070626a566bfc7fb8a4(c97fc8599ead4f459e1e2e73a6b0cb3e4 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="UploaderServices.UploadResponse..ctor()" NewName="A.cb4db89f2588bea59a980870ffa5aebf2..ctor()" />
+<Entry OldName="UploaderServices.UploadResponse.get_infourl()" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.get_infourl()" />
+<Entry OldName="UploaderServices.UploadResponse.set_infourl(String value)" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.set_infourl(String value)" />
+<Entry OldName="UploaderServices.UploadResponse.get_deletecode()" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.get_deletecode()" />
+<Entry OldName="UploaderServices.UploadResponse.set_deletecode(String value)" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.set_deletecode(String value)" />
+<Entry OldName="UploaderServices.UploadResponse.get_downloadurl()" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.get_downloadurl()" />
+<Entry OldName="UploaderServices.UploadResponse.set_downloadurl(String value)" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.set_downloadurl(String value)" />
+<Entry OldName="UploaderServices.UploadResponse.get_result()" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.get_result()" />
+<Entry OldName="UploaderServices.UploadResponse.set_result(Boolean value)" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.set_result(Boolean value)" />
+<Entry OldName="UploaderServices.UploadResponse.get_deleteurl()" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.get_deleteurl()" />
+<Entry OldName="UploaderServices.UploadResponse.set_deleteurl(String value)" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.set_deleteurl(String value)" />
+<Entry OldName="UploaderServices.UploadResponse.get_fileid()" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.get_fileid()" />
+<Entry OldName="UploaderServices.UploadResponse.set_fileid(String value)" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.set_fileid(String value)" />
+<Entry OldName="UploaderServices.UploadResponse.get_error()" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.get_error()" />
+<Entry OldName="UploaderServices.UploadResponse.set_error(String value)" NewName="A.cb4db89f2588bea59a980870ffa5aebf2.set_error(String value)" />
+<Entry OldName="UploaderServices.UploadStatusEventArgs..ctor(UploadStatus status)" NewName="A.cf13bb07fdf11f24e5f677aff8f96366c..ctor(c5576946b45fe014cc4056f62ce1cdd04 cc7529e9c4cc50dfd5019e54c8767dd2a)" />
+<Entry OldName="UploaderServices.UploadStatusEventArgs.get_Status()" NewName="A.cf13bb07fdf11f24e5f677aff8f96366c.get_Status()" />
+<Entry OldName="UploaderServices.UploadStatusEventArgs.set_Status(UploadStatus value)" NewName="A.cf13bb07fdf11f24e5f677aff8f96366c.set_Status(c5576946b45fe014cc4056f62ce1cdd04 value)" />
+<Entry OldName="UploaderServices.UploadProgressEventArgs..ctor(Int64 progress)" NewName="A.ccb0081da33a6ea24b484c37b1f3630f4..ctor(Int64 cfbb642396ba0f56d1002fc5bcb8c7655)" />
+<Entry OldName="UploaderServices.UploadProgressEventArgs.get_Progress()" NewName="A.ccb0081da33a6ea24b484c37b1f3630f4.get_Progress()" />
+<Entry OldName="UploaderServices.UploadProgressEventArgs.set_Progress(Int64 value)" NewName="A.ccb0081da33a6ea24b484c37b1f3630f4.set_Progress(Int64 value)" />
+<Entry OldName="UploaderServices.UploadETAEventArgs..ctor(Double eta)" NewName="A.c97fc8599ead4f459e1e2e73a6b0cb3e4..ctor(Double cda8c743f469f37dd45ae752dbbcceb0c)" />
+<Entry OldName="UploaderServices.UploadETAEventArgs.get_ETA()" NewName="A.c97fc8599ead4f459e1e2e73a6b0cb3e4.get_ETA()" />
+<Entry OldName="UploaderServices.UploadETAEventArgs.set_ETA(Double value)" NewName="A.c97fc8599ead4f459e1e2e73a6b0cb3e4.set_ETA(Double value)" />
+<Entry OldName="UploaderServices.UploadSpeedEventArgs..ctor(Double speed)" NewName="A.cd96848a4ba1afe1c0ba9dc8cc2d50811..ctor(Double c389e0b39e55a2905ff01663f1c71fafe)" />
+<Entry OldName="UploaderServices.UploadSpeedEventArgs.get_Speed()" NewName="A.cd96848a4ba1afe1c0ba9dc8cc2d50811.get_Speed()" />
+<Entry OldName="UploaderServices.UploadSpeedEventArgs.set_Speed(Double value)" NewName="A.cd96848a4ba1afe1c0ba9dc8cc2d50811.set_Speed(Double value)" />
+<Entry OldName="FileLaserUploader.App..ctor()" NewName="A.c192b5dadb8f6ce0cb084de599ff727a4..ctor()" />
+<Entry OldName="FileLaserUploader.App.Application_Startup(Object sender, StartupEventArgs e)" NewName="A.c192b5dadb8f6ce0cb084de599ff727a4.Application_Startup(Object sender, StartupEventArgs e)" />
+<Entry OldName="FileLaserUploader.App.InitializeComponent()" NewName="A.c192b5dadb8f6ce0cb084de599ff727a4.c747e242986e25876e255b85c1cdce7f4()" />
+<Entry OldName="FileLaserUploader.App.Main()" NewName="A.c192b5dadb8f6ce0cb084de599ff727a4.c13c21fa443d710380714ab6347385fb7()" />
+<Entry OldName="FileLaserUploader.DebugLogWriter..ctor()" NewName="A.ce7f916157086dc85c767fe0afe78bbc9..ctor()" />
+<Entry OldName="FileLaserUploader.DebugLogWriter.Write(String message)" NewName="A.ce7f916157086dc85c767fe0afe78bbc9.Write(String message)" />
+<Entry OldName="FileLaserUploader.DebugLogWriter.WriteLine(String message)" NewName="A.ce7f916157086dc85c767fe0afe78bbc9.WriteLine(String message)" />
+<Entry OldName="FileLaserUploader.UploadViewModel..ctor(UploaderViewModel main, Upload upload)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5..ctor(c69ec115c02113a51e9832b458bd00ba7 c9d65f5af3a696ec3448fbca3a73035b4, cb8e09882e9eebeb72e722892016b92a8 c10b171ea0aa3857143e8f1f2a5e15ee9)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.SetStatusMessage()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.ccc84c690b99af50e8375660fd7a3da6e()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.LogStatusChange()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c64dc7c836c3f022d76e258c424c7d2a5()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.UploadStatusChanged(Object sender, UploadStatusEventArgs e)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c80c4d03849c4894e34a372134dbeff11(Object c70b303cc4fea7566b23ddc57a421d85d, cf13bb07fdf11f24e5f677aff8f96366c c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.UploadSpeedChanged(Object sender, UploadSpeedEventArgs e)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c4b65a4570f0bb6e2df633ed2fd09bf54(Object c70b303cc4fea7566b23ddc57a421d85d, cd96848a4ba1afe1c0ba9dc8cc2d50811 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.UploadProgressChanged(Object sender, UploadProgressEventArgs e)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c9ffa6a3385bc513e44d692bc05958abc(Object c70b303cc4fea7566b23ddc57a421d85d, ccb0081da33a6ea24b484c37b1f3630f4 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.SetProgress(Int64 progress)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.ce2ce9fb9381c2c687ee8faa1ea71d6b2(Int64 cfbb642396ba0f56d1002fc5bcb8c7655)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.UploadETAChanged(Object sender, UploadETAEventArgs e)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c7c3881334d382f1d3ec27663c7271614(Object c70b303cc4fea7566b23ddc57a421d85d, c97fc8599ead4f459e1e2e73a6b0cb3e4 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.Close()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.ca2151731eb122595281f17474c14d1c5()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.Restart()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.cb3b6a1fad1787da5d0ad3b61bcb122eb()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.Cancel()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c56b74ad57b4d1de1dd10191d1785c038()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_Upload()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_Upload()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.set_Upload(Upload value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.set_Upload(cb8e09882e9eebeb72e722892016b92a8 value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_DownloadURL()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_DownloadURL()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_Status()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_Status()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_FileName()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_FileName()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_ETA()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_ETA()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.set_ETA(String value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.set_ETA(String value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_Size()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_Size()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.set_Size(String value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.set_Size(String value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_PercentComplete()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_PercentComplete()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.set_PercentComplete(Double value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.set_PercentComplete(Double value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_Progress()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_Progress()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.set_Progress(String value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.set_Progress(String value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_Speed()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_Speed()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.set_Speed(String value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.set_Speed(String value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.get_StatusMessage()" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.get_StatusMessage()" />
+<Entry OldName="FileLaserUploader.UploadViewModel.set_StatusMessage(String value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.set_StatusMessage(String value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.add_PropertyChanged(PropertyChangedEventHandler value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.add_PropertyChanged(PropertyChangedEventHandler value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.remove_PropertyChanged(PropertyChangedEventHandler value)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.remove_PropertyChanged(PropertyChangedEventHandler value)" />
+<Entry OldName="FileLaserUploader.UploadViewModel.OnPropertyChanged(PropertyChangedEventArgs e)" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5.c9471124bc48fc757cf3a94507a92be76(PropertyChangedEventArgs c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel..ctor()" NewName="A.c69ec115c02113a51e9832b458bd00ba7..ctor()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel..cctor()" NewName="A.c69ec115c02113a51e9832b458bd00ba7..cctor()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.SaveSettings()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.cde78b1b5f13d0e56eef2a5f56326b346()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.CreateUpload(String file)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c6f6228b5b5ae288de6375368a6263f94(String ceef320246ebff73308c0e323191ecbe2)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.UploadCreated(Object sender, UploadEventArgs e)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c636b7b4cff6a226605fd32808bb4684b(Object c70b303cc4fea7566b23ddc57a421d85d, cd1c29b2ca52fd4b78c38e6f24797f0bd c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.UploaderStatusUpdated(Object sender, UploaderStatusEventArgs e)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c57a378751268963b9c015e7af9bf32ee(Object c70b303cc4fea7566b23ddc57a421d85d, c8722db2b6db1373ead865a7a0a6d9673 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.SetProxy(String proxy)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c5a714eca6e1049230669facbf520dc2e(String c77a81e9d6cc08cbc0278286f11cf9d4a)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.SetUser(String username, String password)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c64e878d0821b4108bf1ec17f55cc92ab(String ce5aa925e7eb80d19a0e1de1096a69908, String ce5e24e783b02986e8aa7131204e6786e)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.Authenticate()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.cec0c3fb59c0328d015eb00c72bce1b06()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_Dispatcher()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_Dispatcher()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.set_Dispatcher(Dispatcher value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.set_Dispatcher(Dispatcher value)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_UploaderService()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_UploaderService()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.set_UploaderService(FileLaserUploaderService value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.set_UploaderService(cc4e1f164e983f265a480586c6bb5acfc value)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_Active()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_Active()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.set_Active(ObservableCollection`1 value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.set_Active(ObservableCollection`1 value)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_Complete()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_Complete()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.set_Complete(ObservableCollection`1 value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.set_Complete(ObservableCollection`1 value)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_FirstTime()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_FirstTime()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.set_FirstTime(Boolean value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.set_FirstTime(Boolean value)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_Username()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_Username()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.set_Username(String value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.set_Username(String value)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_Password()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_Password()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.set_Password(String value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.set_Password(String value)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_Proxy()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_Proxy()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.set_Proxy(String value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.set_Proxy(String value)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_LastError()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_LastError()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_Alias()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_Alias()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_Points()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_Points()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_RefererPoints()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_RefererPoints()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_SpaceUsed()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_SpaceUsed()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_AccountType()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_AccountType()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_PremiumExpiry()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_PremiumExpiry()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.get_FTPpassword()" NewName="A.c69ec115c02113a51e9832b458bd00ba7.get_FTPpassword()" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.add_StatusChanged(EventHandler`1 value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.add_cdc993ec4c76691af5f0e4ae317f17307(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.remove_StatusChanged(EventHandler`1 value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.remove_cdc993ec4c76691af5f0e4ae317f17307(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.add_LogUpdate(EventHandler`1 value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.add_c64a097c2f808e6b9f5e06fadb8174916(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.remove_LogUpdate(EventHandler`1 value)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.remove_c64a097c2f808e6b9f5e06fadb8174916(EventHandler`1 c4572e0d236acae7422a621e5a2c31bd0)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.OnLogUpdate(LogEventArgs e)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c5ee618e050a9b95e2e1b2faf23793120(cf9bff3ec45e06079f3c51838027cb126 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.OnStatusChanged(UploaderStatusEventArgs e)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.cc810ae4fe162d92bd1f8e5e32159c2b7(c8722db2b6db1373ead865a7a0a6d9673 c842526c5ce73bdf1d4ee54ea268c5452)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.TimeFormatter(Double seconds)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.c179ba1baf8059208e72118a377e01c0f(Double c5f66811026b35d0e0baad5b4436b3670)" />
+<Entry OldName="FileLaserUploader.UploaderViewModel.SizeFormatter(Double size)" NewName="A.c69ec115c02113a51e9832b458bd00ba7.ccb87b7b33664e0160dd2c86cc2d8565c(Double cf28482cf530b42a01c522bb1e5429f6b)" />
+<Entry OldName="FileLaserUploader.LogEventArgs..ctor(DateTime timestamp, String message)" NewName="A.cf9bff3ec45e06079f3c51838027cb126..ctor(DateTime c451b70cf2e8dda41b9b74569f592f3e2, String c8dbcbd9fcff9ea1862e67080e473f152)" />
+<Entry OldName="FileLaserUploader.LogEventArgs.get_Timestamp()" NewName="A.cf9bff3ec45e06079f3c51838027cb126.get_Timestamp()" />
+<Entry OldName="FileLaserUploader.LogEventArgs.set_Timestamp(DateTime value)" NewName="A.cf9bff3ec45e06079f3c51838027cb126.set_Timestamp(DateTime value)" />
+<Entry OldName="FileLaserUploader.LogEventArgs.get_Message()" NewName="A.cf9bff3ec45e06079f3c51838027cb126.get_Message()" />
+<Entry OldName="FileLaserUploader.LogEventArgs.set_Message(String value)" NewName="A.cf9bff3ec45e06079f3c51838027cb126.set_Message(String value)" />
+<Entry OldName="FileLaserUploader.SettingsWindow..ctor(MainWindow main, UploaderViewModel viewModel)" NewName="A.c290c93a1322f7d8b88d9f63a14299762..ctor(c5b6227fcf43c90d89543c9f0ae4f166f c9d65f5af3a696ec3448fbca3a73035b4, c69ec115c02113a51e9832b458bd00ba7 c6affab93951e7d6360f6c6d428441480)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.WindowClosed(Object sender, EventArgs e)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.WindowClosed(Object sender, EventArgs e)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.SaveSettingsButtonClicked(Object sender, RoutedEventArgs e)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.SaveSettingsButtonClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.RemoveButtonClicked(Object sender, RoutedEventArgs e)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.RemoveButtonClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.CancelButtonClicked(Object sender, RoutedEventArgs e)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.CancelButtonClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.ProxySettingsLinkClicked(Object sender, RoutedEventArgs e)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.ProxySettingsLinkClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.UserDefinedRadioUnchecked(Object sender, RoutedEventArgs e)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.UserDefinedRadioUnchecked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.UserDefinedRadioChecked(Object sender, RoutedEventArgs e)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.UserDefinedRadioChecked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.PasswordBoxKeyUp(Object sender, KeyEventArgs e)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.PasswordBoxKeyUp(Object sender, KeyEventArgs e)" />
+<Entry OldName="FileLaserUploader.SettingsWindow.InitializeComponent()" NewName="A.c290c93a1322f7d8b88d9f63a14299762.InitializeComponent()" />
+<Entry OldName="FileLaserUploader.SettingsWindow.System.Windows.Markup.IComponentConnector.Connect(Int32 connectionId, Object target)" NewName="A.c290c93a1322f7d8b88d9f63a14299762.c772829b584ed1c4a5e7b255f2e4752ba(Int32 ce51f537c5558c8b2acf415b2a4f84dc1, Object ce35af9bd123a1174c499d71d871c9586)" />
+<Entry OldName="FileLaserUploader.Properties.Resources..ctor()" NewName="A.c1f480122455e1ff4f09fab4ea5977c6c..ctor()" />
+<Entry OldName="FileLaserUploader.Properties.Resources.get_ResourceManager()" NewName="A.c1f480122455e1ff4f09fab4ea5977c6c.get_ResourceManager()" />
+<Entry OldName="FileLaserUploader.Properties.Resources.get_Culture()" NewName="A.c1f480122455e1ff4f09fab4ea5977c6c.get_Culture()" />
+<Entry OldName="FileLaserUploader.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c1f480122455e1ff4f09fab4ea5977c6c.set_Culture(CultureInfo value)" />
+<Entry OldName="FileLaserUploader.Properties.Resources.get_license()" NewName="A.c1f480122455e1ff4f09fab4ea5977c6c.get_license()" />
+<Entry OldName="FileLaserUploader.MainWindow..ctor(UploaderViewModel vm)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f..ctor(c69ec115c02113a51e9832b458bd00ba7 c50d35dababefe572a1c740d7074bcdfd)" />
+<Entry OldName="FileLaserUploader.MainWindow.get_Uploader()" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.get_Uploader()" />
+<Entry OldName="FileLaserUploader.MainWindow.set_Uploader(UploaderViewModel value)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.set_Uploader(c69ec115c02113a51e9832b458bd00ba7 value)" />
+<Entry OldName="FileLaserUploader.MainWindow.StatusChanged(Object sender, UploaderStatusEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.StatusChanged(Object sender, c8722db2b6db1373ead865a7a0a6d9673 e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ShowUserGrid()" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cdcd8a2bfb324411683f78ff5e09fca32()" />
+<Entry OldName="FileLaserUploader.MainWindow.ShowAuthenticateButton()" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.caec47b10ab85ada34eca3eedac9db1bc()" />
+<Entry OldName="FileLaserUploader.MainWindow.LogUpdate(Object sender, LogEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.LogUpdate(Object sender, cf9bff3ec45e06079f3c51838027cb126 e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ActiveListContextMenuOpening(Object sender, ContextMenuEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ActiveListContextMenuOpening(Object sender, ContextMenuEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.CompleteListContextMenuOpening(Object sender, ContextMenuEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.CompleteListContextMenuOpening(Object sender, ContextMenuEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ViewMenuOpened(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ViewMenuOpened(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ActiveListDrop(Object sender, DragEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ActiveListDrop(Object sender, DragEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.WindowClosing(Object sender, CancelEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.WindowClosing(Object sender, CancelEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.AddFileClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.AddFileClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.CopyURLsClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.CopyURLsClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.RestartClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.RestartClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.CancelClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.CancelClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ClearClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ClearClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ClearAllClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ClearAllClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ClearUnsuccessfulClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ClearUnsuccessfulClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.SettingsClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.SettingsClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ShowSettings()" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.cf820ebe3d7be166328ed422f7435767e()" />
+<Entry OldName="FileLaserUploader.MainWindow.AboutClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.AboutClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ExitClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ExitClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.CheckUpdatesClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.CheckUpdatesClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.VisitWebsiteClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.VisitWebsiteClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.WindowLoaded(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.WindowLoaded(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.TryAgainClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.TryAgainClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.ActiveListMouseUp(Object sender, MouseButtonEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ActiveListMouseUp(Object sender, MouseButtonEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.CompleteListMouseUp(Object sender, MouseButtonEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.CompleteListMouseUp(Object sender, MouseButtonEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.FtpButtonClick(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.FtpButtonClick(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.AuthenticateButtonClick(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.AuthenticateButtonClick(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.FileLaserLinkClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.FileLaserLinkClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.FileLaserAccountClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.FileLaserAccountClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.FileLaserFilesClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.FileLaserFilesClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.PremiumLinkClicked(Object sender, RoutedEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.PremiumLinkClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.SetClipboardText(String text)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c7f92b2939ab877eaab0a79d9a9d4a47d(String c3027fe0ace8c847f95f29cc1ade3d145)" />
+<Entry OldName="FileLaserUploader.MainWindow.ActiveListKeyUp(Object sender, KeyEventArgs e)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.ActiveListKeyUp(Object sender, KeyEventArgs e)" />
+<Entry OldName="FileLaserUploader.MainWindow.InitializeComponent()" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.InitializeComponent()" />
+<Entry OldName="FileLaserUploader.MainWindow.System.Windows.Markup.IComponentConnector.Connect(Int32 connectionId, Object target)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c772829b584ed1c4a5e7b255f2e4752ba(Int32 ce51f537c5558c8b2acf415b2a4f84dc1, Object ce35af9bd123a1174c499d71d871c9586)" />
+<Entry OldName="FileLaserUploader.MainWindow.&lt;CompleteListContextMenuOpening&gt;b__0(UploadViewModel u)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c0d403e67be299c6dca838b6da3d51122(cbc87cb8419f5da9cf1939538bb7a2bf5 c82b9a1d9a1081f93a2b9af966d2c362a)" />
+<Entry OldName="FileLaserUploader.MainWindow.&lt;ViewMenuOpened&gt;b__2(UploadViewModel u)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c9567387cc29ee494cd2de2a4becbbaf5(cbc87cb8419f5da9cf1939538bb7a2bf5 c82b9a1d9a1081f93a2b9af966d2c362a)" />
+<Entry OldName="FileLaserUploader.MainWindow.&lt;ClearUnsuccessfulClicked&gt;b__4(UploadViewModel v)" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f.c77873b5ea292bad837a65d21166d4787(cbc87cb8419f5da9cf1939538bb7a2bf5 c6e1e388aea10379d53cc472e767ee3c0)" />
+<Entry OldName="FileLaserUploader.AboutWindow..ctor(MainWindow main)" NewName="A.c8796c1621d013bdc11bc16cd4d494833..ctor(c5b6227fcf43c90d89543c9f0ae4f166f c9d65f5af3a696ec3448fbca3a73035b4)" />
+<Entry OldName="FileLaserUploader.AboutWindow.WindowClosed(Object sender, EventArgs e)" NewName="A.c8796c1621d013bdc11bc16cd4d494833.WindowClosed(Object sender, EventArgs e)" />
+<Entry OldName="FileLaserUploader.AboutWindow.FatCowLinkClicked(Object sender, RoutedEventArgs e)" NewName="A.c8796c1621d013bdc11bc16cd4d494833.FatCowLinkClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.AboutWindow.KwertyLinkClicked(Object sender, RoutedEventArgs e)" NewName="A.c8796c1621d013bdc11bc16cd4d494833.KwertyLinkClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.AboutWindow.RaskLinkClicked(Object sender, RoutedEventArgs e)" NewName="A.c8796c1621d013bdc11bc16cd4d494833.RaskLinkClicked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="FileLaserUploader.AboutWindow.InitializeComponent()" NewName="A.c8796c1621d013bdc11bc16cd4d494833.InitializeComponent()" />
+<Entry OldName="FileLaserUploader.AboutWindow.System.Windows.Markup.IComponentConnector.Connect(Int32 connectionId, Object target)" NewName="A.c8796c1621d013bdc11bc16cd4d494833.c772829b584ed1c4a5e7b255f2e4752ba(Int32 ce51f537c5558c8b2acf415b2a4f84dc1, Object ce35af9bd123a1174c499d71d871c9586)" />
+<Entry OldName="UploaderServices.FileLaserUploaderService" NewName="A.cc4e1f164e983f265a480586c6bb5acfc" />
+<Entry OldName="UploaderServices.UploaderStatus" NewName="A.c210bf348af3b48fed049797f0804c56b" />
+<Entry OldName="UploaderServices.UploadEventArgs" NewName="A.cd1c29b2ca52fd4b78c38e6f24797f0bd" />
+<Entry OldName="UploaderServices.UploaderStatusEventArgs" NewName="A.c8722db2b6db1373ead865a7a0a6d9673" />
+<Entry OldName="UploaderServices.InfoResponse" NewName="A.caa902e2c01e334ab84b3d9385fbb6eb4" />
+<Entry OldName="UploaderServices.UserDetails" NewName="A.cb7a20996579098276adc593cf3abe4f6" />
+<Entry OldName="UploaderServices.Upload" NewName="A.cb8e09882e9eebeb72e722892016b92a8" />
+<Entry OldName="UploaderServices.UploadResponse" NewName="A.cb4db89f2588bea59a980870ffa5aebf2" />
+<Entry OldName="UploaderServices.UploadStatus" NewName="A.c5576946b45fe014cc4056f62ce1cdd04" />
+<Entry OldName="UploaderServices.UploadStatusEventArgs" NewName="A.cf13bb07fdf11f24e5f677aff8f96366c" />
+<Entry OldName="UploaderServices.UploadProgressEventArgs" NewName="A.ccb0081da33a6ea24b484c37b1f3630f4" />
+<Entry OldName="UploaderServices.UploadETAEventArgs" NewName="A.c97fc8599ead4f459e1e2e73a6b0cb3e4" />
+<Entry OldName="UploaderServices.UploadSpeedEventArgs" NewName="A.cd96848a4ba1afe1c0ba9dc8cc2d50811" />
+<Entry OldName="FileLaserUploader.App" NewName="A.c192b5dadb8f6ce0cb084de599ff727a4" />
+<Entry OldName="FileLaserUploader.DebugLogWriter" NewName="A.ce7f916157086dc85c767fe0afe78bbc9" />
+<Entry OldName="FileLaserUploader.UploadViewModel" NewName="A.cbc87cb8419f5da9cf1939538bb7a2bf5" />
+<Entry OldName="FileLaserUploader.UploaderViewModel" NewName="A.c69ec115c02113a51e9832b458bd00ba7" />
+<Entry OldName="FileLaserUploader.LogEventArgs" NewName="A.cf9bff3ec45e06079f3c51838027cb126" />
+<Entry OldName="FileLaserUploader.SettingsWindow" NewName="A.c290c93a1322f7d8b88d9f63a14299762" />
+<Entry OldName="FileLaserUploader.Properties.Resources" NewName="A.c1f480122455e1ff4f09fab4ea5977c6c" />
+<Entry OldName="FileLaserUploader.MainWindow" NewName="A.c5b6227fcf43c90d89543c9f0ae4f166f" />
+<Entry OldName="FileLaserUploader.AboutWindow" NewName="A.c8796c1621d013bdc11bc16cd4d494833" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\UploaderServices\FileLaserService.cs" NewName="File0" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\UploaderServices\Upload.cs" NewName="File1" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\App.xaml.cs" NewName="File2" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\obj\x86\Debug\App.g.cs" NewName="File3" />
+<Entry OldName="c:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\App.xaml" NewName="File4" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\UploadViewModel.cs" NewName="File5" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\UploaderViewModel.cs" NewName="File6" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\Properties\Settings.Designer.cs" NewName="File7" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\SettingsWindow.xaml.cs" NewName="File8" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\obj\x86\Debug\SettingsWindow.g.cs" NewName="File9" />
+<Entry OldName="c:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\SettingsWindow.xaml" NewName="File10" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\Properties\Resources.Designer.cs" NewName="File11" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\MainWindow.xaml.cs" NewName="File12" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\obj\x86\Debug\MainWindow.g.cs" NewName="File13" />
+<Entry OldName="c:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\MainWindow.xaml" NewName="File14" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\AboutWindow.xaml.cs" NewName="File15" />
+<Entry OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\obj\x86\Debug\AboutWindow.g.cs" NewName="File16" />
+<Entry OldName="c:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\AboutWindow.xaml" NewName="File17" />
+<Assembly Name="FileLaserUploader"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="UploaderServices.FileLaserUploaderService" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="Authenticate" Variables="this;username;password;" ParamCnt="3" />
+<Method Token="100663300" Name="AuthenticateInner" Variables="this;state;req;rs;sw;stream;resp;ex;body;response;js;sr;&lt;&gt;s__LockTaken0;" ParamCnt="2" />
+<Method Token="100663301" Name="CreateUpload" Variables="this;file;upload;" ParamCnt="2" />
+<Method Token="100663302" Name="get_Username" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663303" Name="set_Username" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663304" Name="get_Password" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663305" Name="set_Password" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663306" Name="get_LastError" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663307" Name="set_LastError" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663308" Name="get_Status" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663309" Name="set_Status" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663310" Name="get_Proxy" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663311" Name="set_Proxy" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663312" Name="get_Uploads" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663313" Name="set_Uploads" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663314" Name="get_ID" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663315" Name="set_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663316" Name="get_Alias" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663317" Name="set_Alias" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663318" Name="get_Points" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663319" Name="set_Points" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663320" Name="get_RefererPoints" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663321" Name="set_RefererPoints" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663322" Name="get_SpaceUsed" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663323" Name="set_SpaceUsed" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663324" Name="get_IsPremium" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663325" Name="set_IsPremium" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663326" Name="get_PremiumExpiry" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663327" Name="set_PremiumExpiry" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663328" Name="get_FTPpassword" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663329" Name="set_FTPpassword" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663330" Name="add_StatusChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663331" Name="remove_StatusChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663332" Name="add_UploadCreated" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663333" Name="remove_UploadCreated" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663334" Name="OnStatusChanged" Variables="this;e;evt;" ParamCnt="2" />
+<Method Token="100663335" Name="OnUploadCreated" Variables="this;e;evt;" ParamCnt="2" />
+<Field Token="67108865" Name="StatusChanged" />
+<Field Token="67108866" Name="UploadCreated" />
+<Field Token="67108867" Name="&lt;Username&gt;k__BackingField" />
+<Field Token="67108868" Name="&lt;Password&gt;k__BackingField" />
+<Field Token="67108869" Name="&lt;LastError&gt;k__BackingField" />
+<Field Token="67108870" Name="&lt;Status&gt;k__BackingField" />
+<Field Token="67108871" Name="&lt;Proxy&gt;k__BackingField" />
+<Field Token="67108872" Name="&lt;Uploads&gt;k__BackingField" />
+<Field Token="67108873" Name="&lt;ID&gt;k__BackingField" />
+<Field Token="67108874" Name="&lt;Alias&gt;k__BackingField" />
+<Field Token="67108875" Name="&lt;Points&gt;k__BackingField" />
+<Field Token="67108876" Name="&lt;RefererPoints&gt;k__BackingField" />
+<Field Token="67108877" Name="&lt;SpaceUsed&gt;k__BackingField" />
+<Field Token="67108878" Name="&lt;IsPremium&gt;k__BackingField" />
+<Field Token="67108879" Name="&lt;PremiumExpiry&gt;k__BackingField" />
+<Field Token="67108880" Name="&lt;FTPpassword&gt;k__BackingField" />
+<Type Token="33554436" Name="UploaderServices.UploaderStatus" />
+<Field Token="67108881" Name="value__" />
+<Field Token="67108882" Name="NotAuthenticated" />
+<Field Token="67108883" Name="FailedAuthentication" />
+<Field Token="67108884" Name="Authenticating" />
+<Field Token="67108885" Name="Authenticated" />
+<Type Token="33554437" Name="UploaderServices.UploadEventArgs" />
+<Method Token="100663337" Name=".ctor" Variables="this;upload;" ParamCnt="2" />
+<Method Token="100663338" Name="get_Upload" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663339" Name="set_Upload" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108886" Name="&lt;Upload&gt;k__BackingField" />
+<Type Token="33554439" Name="UploaderServices.UploaderStatusEventArgs" />
+<Method Token="100663346" Name=".ctor" Variables="this;status;" ParamCnt="2" />
+<Method Token="100663347" Name="get_Status" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663348" Name="set_Status" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108888" Name="&lt;Status&gt;k__BackingField" />
+<Type Token="33554440" Name="UploaderServices.InfoResponse" />
+<Method Token="100663349" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663350" Name="get_result" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663351" Name="set_result" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663352" Name="get_userdetails" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663353" Name="set_userdetails" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108889" Name="&lt;result&gt;k__BackingField" />
+<Field Token="67108890" Name="&lt;userdetails&gt;k__BackingField" />
+<Type Token="33554441" Name="UploaderServices.UserDetails" />
+<Method Token="100663354" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663355" Name="get_id" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663356" Name="set_id" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663357" Name="get_alias" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663358" Name="set_alias" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663359" Name="get_points" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663360" Name="set_points" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663361" Name="get_refererpoints" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663362" Name="set_refererpoints" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663363" Name="get_spaceused" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663364" Name="set_spaceused" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663365" Name="get_ispremium" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663366" Name="set_ispremium" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663367" Name="get_premiumexpire" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663368" Name="set_premiumexpire" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663369" Name="get_ftppassword" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663370" Name="set_ftppassword" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108891" Name="&lt;id&gt;k__BackingField" />
+<Field Token="67108892" Name="&lt;alias&gt;k__BackingField" />
+<Field Token="67108893" Name="&lt;points&gt;k__BackingField" />
+<Field Token="67108894" Name="&lt;refererpoints&gt;k__BackingField" />
+<Field Token="67108895" Name="&lt;spaceused&gt;k__BackingField" />
+<Field Token="67108896" Name="&lt;ispremium&gt;k__BackingField" />
+<Field Token="67108897" Name="&lt;premiumexpire&gt;k__BackingField" />
+<Field Token="67108898" Name="&lt;ftppassword&gt;k__BackingField" />
+<Type Token="33554442" Name="UploaderServices.Upload" />
+<Method Token="100663371" Name=".ctor" Variables="this;main;filePath;&lt;&gt;s__LockTaken0;&lt;&gt;g__initLocal1;" ParamCnt="3" />
+<Method Token="100663372" Name="StartUpload" Variables="this;" ParamCnt="1" />
+<Method Token="100663373" Name="UploaderStatusChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663374" Name="StartInner" Variables="this;state;b;pairs;ms;sw;pair;ex;" ParamCnt="2" />
+<Method Token="100663375" Name="HandleException" Variables="this;ex;" ParamCnt="2" />
+<Method Token="100663376" Name="Cleanup" Variables="this;" ParamCnt="1" />
+<Method Token="100663377" Name="GetRequestStreamCallback" Variables="this;result;ex;" ParamCnt="2" />
+<Method Token="100663378" Name="WriteLeadingCallback" Variables="this;result;ex;" ParamCnt="2" />
+<Method Token="100663379" Name="ReadData" Variables="this;ex;" ParamCnt="1" />
+<Method Token="100663380" Name="ReadCallback" Variables="this;result;" ParamCnt="2" />
+<Method Token="100663381" Name="WriteData" Variables="this;ex;" ParamCnt="1" />
+<Method Token="100663382" Name="WriteCallback" Variables="this;result;ex;speed;avgSpeed;eta;estTime;idealSize;" ParamCnt="2" />
+<Method Token="100663383" Name="SendTrailing" Variables="this;ex;" ParamCnt="1" />
+<Method Token="100663384" Name="WriteTrailingCallback" Variables="this;result;ex;" ParamCnt="2" />
+<Method Token="100663385" Name="ResponseCallback" Variables="this;result;stream;resp;ex;body;response;js;sr;message;" ParamCnt="2" />
+<Method Token="100663386" Name="Cancel" Variables="this;" ParamCnt="1" />
+<Method Token="100663387" Name="get_LastError" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663388" Name="set_LastError" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663389" Name="get_Status" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663390" Name="set_Status" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663391" Name="get_DesiredInterval" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663392" Name="set_DesiredInterval" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663393" Name="get_IntervalMargin" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663394" Name="set_IntervalMargin" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663395" Name="get_MinBufferSize" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663396" Name="set_MinBufferSize" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663397" Name="get_MaxBufferSize" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663398" Name="set_MaxBufferSize" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663399" Name="get_BufferSize" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663400" Name="set_BufferSize" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663401" Name="get_InitialWait" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663402" Name="set_InitialWait" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663403" Name="get_AverageOver" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663404" Name="set_AverageOver" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663405" Name="get_ResizeBufferAfter" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663406" Name="set_ResizeBufferAfter" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663407" Name="get_Size" Variables="this;" ParamCnt="1" />
+<Method Token="100663408" Name="get_FileName" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663409" Name="set_FileName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663410" Name="get_FullPath" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663411" Name="set_FullPath" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663412" Name="get_ETA" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663413" Name="set_ETA" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663414" Name="get_Speed" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663415" Name="set_Speed" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663416" Name="get_Progress" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663417" Name="set_Progress" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663418" Name="get_InfoURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663419" Name="set_InfoURL" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663420" Name="get_DeleteCode" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663421" Name="set_DeleteCode" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663422" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663423" Name="set_DownloadURL" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663424" Name="get_DeleteURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663425" Name="set_DeleteURL" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663426" Name="get_FileID" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663427" Name="set_FileID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663428" Name="add_StatusChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663429" Name="remove_StatusChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663430" Name="add_ProgressChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663431" Name="remove_ProgressChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663432" Name="add_SpeedChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663433" Name="remove_SpeedChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663434" Name="add_ETAChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663435" Name="remove_ETAChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663436" Name="OnUploadStatusChanged" Variables="this;e;evt;" ParamCnt="2" />
+<Method Token="100663437" Name="OnUploadProgressChanged" Variables="this;e;evt;" ParamCnt="2" />
+<Method Token="100663438" Name="OnUploadSpeedChanged" Variables="this;e;evt;" ParamCnt="2" />
+<Method Token="100663439" Name="OnUploadETAChanged" Variables="this;e;evt;" ParamCnt="2" />
+<Field Token="67108899" Name="_service" />
+<Field Token="67108900" Name="_uploadId" />
+<Field Token="67108901" Name="_userID" />
+<Field Token="67108902" Name="_proxy" />
+<Field Token="67108903" Name="_errors" />
+<Field Token="67108904" Name="_req" />
+<Field Token="67108905" Name="_fs" />
+<Field Token="67108906" Name="_rs" />
+<Field Token="67108907" Name="_buffer" />
+<Field Token="67108908" Name="_leading" />
+<Field Token="67108909" Name="_trailing" />
+<Field Token="67108910" Name="_cancel" />
+<Field Token="67108911" Name="_filePos" />
+<Field Token="67108912" Name="_readLength" />
+<Field Token="67108913" Name="_checkCounter" />
+<Field Token="67108914" Name="_windowClock" />
+<Field Token="67108915" Name="_stopwatch" />
+<Field Token="67108916" Name="_speeds" />
+<Field Token="67108917" Name="StatusChanged" />
+<Field Token="67108918" Name="ProgressChanged" />
+<Field Token="67108919" Name="SpeedChanged" />
+<Field Token="67108920" Name="ETAChanged" />
+<Field Token="67108921" Name="&lt;LastError&gt;k__BackingField" />
+<Field Token="67108922" Name="&lt;Status&gt;k__BackingField" />
+<Field Token="67108923" Name="&lt;DesiredInterval&gt;k__BackingField" />
+<Field Token="67108924" Name="&lt;IntervalMargin&gt;k__BackingField" />
+<Field Token="67108925" Name="&lt;MinBufferSize&gt;k__BackingField" />
+<Field Token="67108926" Name="&lt;MaxBufferSize&gt;k__BackingField" />
+<Field Token="67108927" Name="&lt;BufferSize&gt;k__BackingField" />
+<Field Token="67108928" Name="&lt;InitialWait&gt;k__BackingField" />
+<Field Token="67108929" Name="&lt;AverageOver&gt;k__BackingField" />
+<Field Token="67108930" Name="&lt;ResizeBufferAfter&gt;k__BackingField" />
+<Field Token="67108931" Name="&lt;FileName&gt;k__BackingField" />
+<Field Token="67108932" Name="&lt;FullPath&gt;k__BackingField" />
+<Field Token="67108933" Name="&lt;ETA&gt;k__BackingField" />
+<Field Token="67108934" Name="&lt;Speed&gt;k__BackingField" />
+<Field Token="67108935" Name="&lt;Progress&gt;k__BackingField" />
+<Field Token="67108936" Name="&lt;InfoURL&gt;k__BackingField" />
+<Field Token="67108937" Name="&lt;DeleteCode&gt;k__BackingField" />
+<Field Token="67108938" Name="&lt;DownloadURL&gt;k__BackingField" />
+<Field Token="67108939" Name="&lt;DeleteURL&gt;k__BackingField" />
+<Field Token="67108940" Name="&lt;FileID&gt;k__BackingField" />
+<Type Token="33554443" Name="UploaderServices.UploadResponse" />
+<Method Token="100663440" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663441" Name="get_infourl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663442" Name="set_infourl" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663443" Name="get_deletecode" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663444" Name="set_deletecode" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663445" Name="get_downloadurl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663446" Name="set_downloadurl" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663447" Name="get_result" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663448" Name="set_result" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663449" Name="get_deleteurl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663450" Name="set_deleteurl" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663451" Name="get_fileid" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663452" Name="set_fileid" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663453" Name="get_error" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663454" Name="set_error" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108941" Name="&lt;infourl&gt;k__BackingField" />
+<Field Token="67108942" Name="&lt;deletecode&gt;k__BackingField" />
+<Field Token="67108943" Name="&lt;downloadurl&gt;k__BackingField" />
+<Field Token="67108944" Name="&lt;result&gt;k__BackingField" />
+<Field Token="67108945" Name="&lt;deleteurl&gt;k__BackingField" />
+<Field Token="67108946" Name="&lt;fileid&gt;k__BackingField" />
+<Field Token="67108947" Name="&lt;error&gt;k__BackingField" />
+<Type Token="33554444" Name="UploaderServices.UploadStatus" />
+<Field Token="67108948" Name="value__" />
+<Field Token="67108949" Name="Idle" />
+<Field Token="67108950" Name="Uploading" />
+<Field Token="67108951" Name="Success" />
+<Field Token="67108952" Name="Cancelled" />
+<Field Token="67108953" Name="Error" />
+<Type Token="33554445" Name="UploaderServices.UploadStatusEventArgs" />
+<Method Token="100663455" Name=".ctor" Variables="this;status;" ParamCnt="2" />
+<Method Token="100663456" Name="get_Status" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663457" Name="set_Status" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108954" Name="&lt;Status&gt;k__BackingField" />
+<Type Token="33554447" Name="UploaderServices.UploadProgressEventArgs" />
+<Method Token="100663461" Name=".ctor" Variables="this;progress;" ParamCnt="2" />
+<Method Token="100663462" Name="get_Progress" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663463" Name="set_Progress" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108956" Name="&lt;Progress&gt;k__BackingField" />
+<Type Token="33554449" Name="UploaderServices.UploadETAEventArgs" />
+<Method Token="100663469" Name=".ctor" Variables="this;eta;" ParamCnt="2" />
+<Method Token="100663470" Name="get_ETA" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663471" Name="set_ETA" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108962" Name="&lt;ETA&gt;k__BackingField" />
+<Type Token="33554450" Name="UploaderServices.UploadSpeedEventArgs" />
+<Method Token="100663472" Name=".ctor" Variables="this;speed;" ParamCnt="2" />
+<Method Token="100663473" Name="get_Speed" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663474" Name="set_Speed" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108963" Name="&lt;Speed&gt;k__BackingField" />
+<Type Token="33554451" Name="FileLaserUploader.App" />
+<Method Token="100663475" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663476" Name="Application_Startup" Variables="this;sender;e;vm;window;" ParamCnt="3" />
+<Method Token="100663477" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663478" Name="Main" Variables="app;" ParamCnt="0" />
+<Type Token="33554452" Name="FileLaserUploader.DebugLogWriter" />
+<Method Token="100663479" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663480" Name="Write" Variables="this;message;" ParamCnt="2" />
+<Method Token="100663481" Name="WriteLine" Variables="this;message;" ParamCnt="2" />
+<Type Token="33554453" Name="FileLaserUploader.UploadViewModel" />
+<Method Token="100663482" Name=".ctor" Variables="this;main;upload;" ParamCnt="3" />
+<Method Token="100663483" Name="SetStatusMessage" Variables="this;" ParamCnt="1" />
+<Method Token="100663484" Name="LogStatusChange" Variables="this;log;" ParamCnt="1" />
+<Method Token="100663485" Name="UploadStatusChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663486" Name="UploadSpeedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663487" Name="UploadProgressChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663488" Name="SetProgress" Variables="this;progress;" ParamCnt="2" />
+<Method Token="100663489" Name="UploadETAChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663490" Name="Close" Variables="this;" ParamCnt="1" />
+<Method Token="100663491" Name="Restart" Variables="this;" ParamCnt="1" />
+<Method Token="100663492" Name="Cancel" Variables="this;" ParamCnt="1" />
+<Method Token="100663493" Name="get_Upload" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663494" Name="set_Upload" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663495" Name="get_DownloadURL" Variables="this;" ParamCnt="1" />
+<Method Token="100663496" Name="get_Status" Variables="this;" ParamCnt="1" />
+<Method Token="100663497" Name="get_FileName" Variables="this;" ParamCnt="1" />
+<Method Token="100663498" Name="get_ETA" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663499" Name="set_ETA" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663500" Name="get_Size" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663501" Name="set_Size" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663502" Name="get_PercentComplete" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663503" Name="set_PercentComplete" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663504" Name="get_Progress" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663505" Name="set_Progress" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663506" Name="get_Speed" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663507" Name="set_Speed" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663508" Name="get_StatusMessage" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663509" Name="set_StatusMessage" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663510" Name="add_PropertyChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663511" Name="remove_PropertyChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663512" Name="OnPropertyChanged" Variables="this;e;ev;" ParamCnt="2" />
+<Field Token="67108964" Name="_main" />
+<Field Token="67108965" Name="_active" />
+<Field Token="67108966" Name="PropertyChanged" />
+<Field Token="67108967" Name="&lt;Upload&gt;k__BackingField" />
+<Field Token="67108968" Name="&lt;ETA&gt;k__BackingField" />
+<Field Token="67108969" Name="&lt;Size&gt;k__BackingField" />
+<Field Token="67108970" Name="&lt;PercentComplete&gt;k__BackingField" />
+<Field Token="67108971" Name="&lt;Progress&gt;k__BackingField" />
+<Field Token="67108972" Name="&lt;Speed&gt;k__BackingField" />
+<Field Token="67108973" Name="&lt;StatusMessage&gt;k__BackingField" />
+<Type Token="33554454" Name="FileLaserUploader.UploaderViewModel" />
+<Method Token="100663513" Name=".ctor" Variables="this;registry;username;passwordEnc;proxy;password;" ParamCnt="1" />
+<Method Token="100663514" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663515" Name="SaveSettings" Variables="this;registry;password;" ParamCnt="1" />
+<Method Token="100663516" Name="CreateUpload" Variables="this;file;" ParamCnt="2" />
+<Method Token="100663517" Name="UploadCreated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663518" Name="UploaderStatusUpdated" Variables="this;sender;e;status;" ParamCnt="3" />
+<Method Token="100663519" Name="SetProxy" Variables="this;proxy;uri;" ParamCnt="2" />
+<Method Token="100663520" Name="SetUser" Variables="this;username;password;" ParamCnt="3" />
+<Method Token="100663521" Name="Authenticate" Variables="this;" ParamCnt="1" />
+<Method Token="100663522" Name="get_Dispatcher" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663523" Name="set_Dispatcher" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663524" Name="get_UploaderService" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663525" Name="set_UploaderService" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663526" Name="get_Active" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663527" Name="set_Active" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663528" Name="get_Complete" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663529" Name="set_Complete" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663530" Name="get_FirstTime" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663531" Name="set_FirstTime" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663532" Name="get_Username" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663533" Name="set_Username" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663534" Name="get_Password" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663535" Name="set_Password" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663536" Name="get_Proxy" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663537" Name="set_Proxy" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663538" Name="get_LastError" Variables="this;" ParamCnt="1" />
+<Method Token="100663539" Name="get_Alias" Variables="this;" ParamCnt="1" />
+<Method Token="100663540" Name="get_Points" Variables="this;" ParamCnt="1" />
+<Method Token="100663541" Name="get_RefererPoints" Variables="this;" ParamCnt="1" />
+<Method Token="100663542" Name="get_SpaceUsed" Variables="this;" ParamCnt="1" />
+<Method Token="100663543" Name="get_AccountType" Variables="this;" ParamCnt="1" />
+<Method Token="100663544" Name="get_PremiumExpiry" Variables="this;" ParamCnt="1" />
+<Method Token="100663545" Name="get_FTPpassword" Variables="this;" ParamCnt="1" />
+<Method Token="100663546" Name="add_StatusChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663547" Name="remove_StatusChanged" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663548" Name="add_LogUpdate" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663549" Name="remove_LogUpdate" Variables="this;value;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663550" Name="OnLogUpdate" Variables="this;e;evt;" ParamCnt="2" />
+<Method Token="100663551" Name="OnStatusChanged" Variables="this;e;evt;" ParamCnt="2" />
+<Method Token="100663552" Name="TimeFormatter" Variables="seconds;span;" ParamCnt="1" />
+<Method Token="100663553" Name="SizeFormatter" Variables="size;units;unit;" ParamCnt="1" />
+<Field Token="67108974" Name="ProxyDisabled" />
+<Field Token="67108975" Name="StatusChanged" />
+<Field Token="67108976" Name="LogUpdate" />
+<Field Token="67108977" Name="&lt;Dispatcher&gt;k__BackingField" />
+<Field Token="67108978" Name="&lt;UploaderService&gt;k__BackingField" />
+<Field Token="67108979" Name="&lt;Active&gt;k__BackingField" />
+<Field Token="67108980" Name="&lt;Complete&gt;k__BackingField" />
+<Field Token="67108981" Name="&lt;FirstTime&gt;k__BackingField" />
+<Field Token="67108982" Name="&lt;Username&gt;k__BackingField" />
+<Field Token="67108983" Name="&lt;Password&gt;k__BackingField" />
+<Field Token="67108984" Name="&lt;Proxy&gt;k__BackingField" />
+<Type Token="33554455" Name="FileLaserUploader.LogEventArgs" />
+<Method Token="100663554" Name=".ctor" Variables="this;timestamp;message;" ParamCnt="3" />
+<Method Token="100663555" Name="get_Timestamp" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663556" Name="set_Timestamp" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663557" Name="get_Message" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663558" Name="set_Message" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108985" Name="&lt;Timestamp&gt;k__BackingField" />
+<Field Token="67108986" Name="&lt;Message&gt;k__BackingField" />
+<Type Token="33554456" Name="FileLaserUploader.Properties.Settings" />
+<Method Token="100663559" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663560" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663561" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67108987" Name="defaultInstance" />
+<Type Token="33554457" Name="FileLaserUploader.SettingsWindow" />
+<Method Token="100663562" Name=".ctor" Variables="this;main;viewModel;" ParamCnt="3" />
+<Method Token="100663563" Name="WindowClosed" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663564" Name="SaveSettingsButtonClicked" Variables="this;sender;e;proxy;username;password;" ParamCnt="3" />
+<Method Token="100663565" Name="RemoveButtonClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663566" Name="CancelButtonClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663567" Name="ProxySettingsLinkClicked" Variables="this;sender;e;myProcess;myProcessStartInfo;" ParamCnt="3" />
+<Method Token="100663568" Name="UserDefinedRadioUnchecked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663569" Name="UserDefinedRadioChecked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663570" Name="PasswordBoxKeyUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663571" Name="InitializeComponent" Variables="this;resourceLocater;" ParamCnt="1" />
+<Method Token="100663572" Name="System.Windows.Markup.IComponentConnector.Connect" Variables="this;connectionId;target;" ParamCnt="3" />
+<Field Token="67108988" Name="_main" />
+<Field Token="67108989" Name="_viewModel" />
+<Field Token="67108990" Name="_authRequired" />
+<Field Token="67108991" Name="UsernameBox" />
+<Field Token="67108992" Name="PasswordBox" />
+<Field Token="67108993" Name="RemoveButton" />
+<Field Token="67108994" Name="UseSystemRadio" />
+<Field Token="67108995" Name="UserDefinedRadio" />
+<Field Token="67108996" Name="ProxyAddressBox" />
+<Field Token="67108997" Name="DisableProxyRadio" />
+<Field Token="67108998" Name="SaveSettingsButton" />
+<Field Token="67108999" Name="CancelButton" />
+<Field Token="67109000" Name="_contentLoaded" />
+<Type Token="33554458" Name="FileLaserUploader.Properties.Resources" />
+<Method Token="100663573" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663574" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663575" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663576" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663577" Name="get_license" Variables="" ParamCnt="0" />
+<Field Token="67109001" Name="resourceMan" />
+<Field Token="67109002" Name="resourceCulture" />
+<Type Token="33554459" Name="FileLaserUploader.MainWindow" />
+<Method Token="100663578" Name=".ctor" Variables="this;vm;" ParamCnt="2" />
+<Method Token="100663579" Name="get_Uploader" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663580" Name="set_Uploader" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663581" Name="StatusChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663582" Name="ShowUserGrid" Variables="this;" ParamCnt="1" />
+<Method Token="100663583" Name="ShowAuthenticateButton" Variables="this;" ParamCnt="1" />
+<Method Token="100663584" Name="LogUpdate" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663585" Name="ActiveListContextMenuOpening" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663586" Name="CompleteListContextMenuOpening" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663587" Name="ViewMenuOpened" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663588" Name="ActiveListDrop" Variables="this;sender;e;data;file;" ParamCnt="3" />
+<Method Token="100663589" Name="WindowClosing" Variables="this;sender;e;ul;" ParamCnt="3" />
+<Method Token="100663590" Name="AddFileClicked" Variables="this;sender;e;openFile;result;fn;" ParamCnt="3" />
+<Method Token="100663591" Name="CopyURLsClicked" Variables="this;sender;e;sb;ul;" ParamCnt="3" />
+<Method Token="100663592" Name="RestartClicked" Variables="this;sender;e;ul;" ParamCnt="3" />
+<Method Token="100663593" Name="CancelClicked" Variables="this;sender;e;ul;" ParamCnt="3" />
+<Method Token="100663594" Name="ClearClicked" Variables="this;sender;e;ul;" ParamCnt="3" />
+<Method Token="100663595" Name="ClearAllClicked" Variables="this;sender;e;ul;" ParamCnt="3" />
+<Method Token="100663596" Name="ClearUnsuccessfulClicked" Variables="this;sender;e;ul;" ParamCnt="3" />
+<Method Token="100663597" Name="SettingsClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663598" Name="ShowSettings" Variables="this;" ParamCnt="1" />
+<Method Token="100663599" Name="AboutClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663600" Name="ExitClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663601" Name="CheckUpdatesClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663602" Name="VisitWebsiteClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663603" Name="WindowLoaded" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663604" Name="TryAgainClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663605" Name="ActiveListMouseUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663606" Name="CompleteListMouseUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663607" Name="FtpButtonClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663608" Name="AuthenticateButtonClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663609" Name="FileLaserLinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663610" Name="FileLaserAccountClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663611" Name="FileLaserFilesClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663612" Name="PremiumLinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663613" Name="SetClipboardText" Variables="text;" ParamCnt="1" />
+<Method Token="100663614" Name="ActiveListKeyUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663615" Name="InitializeComponent" Variables="this;resourceLocater;" ParamCnt="1" />
+<Method Token="100663616" Name="System.Windows.Markup.IComponentConnector.Connect" Variables="this;connectionId;target;" ParamCnt="3" />
+<Method Token="100663617" Name="&lt;CompleteListContextMenuOpening&gt;b__0" Variables="u;" ParamCnt="1" />
+<Method Token="100663618" Name="&lt;ViewMenuOpened&gt;b__2" Variables="u;" ParamCnt="1" />
+<Method Token="100663619" Name="&lt;ClearUnsuccessfulClicked&gt;b__4" Variables="v;" ParamCnt="1" />
+<Field Token="67109003" Name="_aboutWindow" />
+<Field Token="67109004" Name="_settingsWindow" />
+<Field Token="67109005" Name="FileLaserAccountMenu" />
+<Field Token="67109006" Name="FileLaserFilesMenu" />
+<Field Token="67109007" Name="ClearCompletedMenu" />
+<Field Token="67109008" Name="ClearUnsucessfulMenu" />
+<Field Token="67109009" Name="AddFileButton" />
+<Field Token="67109010" Name="CancelButton" />
+<Field Token="67109011" Name="SettingsButton" />
+<Field Token="67109012" Name="HelpButton" />
+<Field Token="67109013" Name="ActiveList" />
+<Field Token="67109014" Name="CancelContextItem" />
+<Field Token="67109015" Name="AddFileContextItem" />
+<Field Token="67109016" Name="CompleteList" />
+<Field Token="67109017" Name="CopyURLContextItem" />
+<Field Token="67109018" Name="RestartContextItem" />
+<Field Token="67109019" Name="ClearContextItem" />
+<Field Token="67109020" Name="ClearAllContextItem" />
+<Field Token="67109021" Name="ClearUnsuccessfulContextItem" />
+<Field Token="67109022" Name="AuthenticatePanel" />
+<Field Token="67109023" Name="UserGrid" />
+<Field Token="67109024" Name="AliasLabel" />
+<Field Token="67109025" Name="AccountTypeLabel" />
+<Field Token="67109026" Name="PremiumLinkLabel" />
+<Field Token="67109027" Name="PremiumExpiresLabel" />
+<Field Token="67109028" Name="SpaceUsedLabel" />
+<Field Token="67109029" Name="PointsLabel" />
+<Field Token="67109030" Name="ReferrerPointsLabel" />
+<Field Token="67109031" Name="ftpPasswordBox" />
+<Field Token="67109032" Name="LogBox" />
+<Field Token="67109033" Name="AuthRequiredStatus" />
+<Field Token="67109034" Name="AuthenticatingStatus" />
+<Field Token="67109035" Name="AuthenticatedStatus" />
+<Field Token="67109036" Name="StatusUsername" />
+<Field Token="67109037" Name="AuthFailedPanel" />
+<Field Token="67109038" Name="AuthFailedError" />
+<Field Token="67109039" Name="_contentLoaded" />
+<Field Token="67109040" Name="&lt;Uploader&gt;k__BackingField" />
+<Field Token="67109041" Name="CS$&lt;&gt;9__CachedAnonymousMethodDelegate1" />
+<Field Token="67109042" Name="CS$&lt;&gt;9__CachedAnonymousMethodDelegate3" />
+<Field Token="67109043" Name="CS$&lt;&gt;9__CachedAnonymousMethodDelegate5" />
+<Type Token="33554460" Name="FileLaserUploader.AboutWindow" />
+<Method Token="100663620" Name=".ctor" Variables="this;main;" ParamCnt="2" />
+<Method Token="100663621" Name="WindowClosed" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663622" Name="FatCowLinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663623" Name="KwertyLinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663624" Name="RaskLinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663625" Name="InitializeComponent" Variables="this;resourceLocater;" ParamCnt="1" />
+<Method Token="100663626" Name="System.Windows.Markup.IComponentConnector.Connect" Variables="this;connectionId;target;" ParamCnt="3" />
+<Field Token="67109044" Name="_main" />
+<Field Token="67109045" Name="VersionTextBlock" />
+<Field Token="67109046" Name="LicenseBox" />
+<Field Token="67109047" Name="_contentLoaded" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663336" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\UploaderServices\FileLaserService.cs" NewName="File0" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\UploaderServices\Upload.cs" NewName="File1" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\App.xaml.cs" NewName="File2" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\obj\x86\Debug\App.g.cs" NewName="File3" />
+<File OldName="c:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\App.xaml" NewName="File4" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\UploadViewModel.cs" NewName="File5" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\UploaderViewModel.cs" NewName="File6" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\Properties\Settings.Designer.cs" NewName="File7" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\SettingsWindow.xaml.cs" NewName="File8" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\obj\x86\Debug\SettingsWindow.g.cs" NewName="File9" />
+<File OldName="c:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\SettingsWindow.xaml" NewName="File10" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\Properties\Resources.Designer.cs" NewName="File11" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\MainWindow.xaml.cs" NewName="File12" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\obj\x86\Debug\MainWindow.g.cs" NewName="File13" />
+<File OldName="c:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\MainWindow.xaml" NewName="File14" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\AboutWindow.xaml.cs" NewName="File15" />
+<File OldName="C:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\obj\x86\Debug\AboutWindow.g.cs" NewName="File16" />
+<File OldName="c:\Users\Timothy\Code\Current\FileLaserUploader\FileLaserUploader\AboutWindow.xaml" NewName="File17" />
+</Mappings>

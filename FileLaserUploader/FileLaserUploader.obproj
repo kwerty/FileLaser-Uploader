@@ -1,0 +1,19 @@
+<Project Name="New Obfuscator Project" ProjectFileVersion="2" UseRelativePaths="True" CheckVersionsWhileResolvingAssemblies="True" ID="{b15454d1-a1e7-4e59-a59d-fb5ef9ca8307}">
+  <SearchDirectories />
+  <OutputSettings OutputPath=".\CryptoObfuscator_Output" MainAssemblyPath="" RunAssemblyPath="FileLaserUploader" SNPath="C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\sn.exe" SignToolPath="" LicensingDLLPath="" LicensingMergeAssemblyName="" OverwriteInputFiles="False" BuildID="">
+    <AdditionalAssemblies />
+  </OutputSettings>
+  <ExceptionReporting ExceptionReportingServiceURL="" TryToContinueOnException="True" LocalReportPath=".\FileLaserUploader_ExceptionReports" ApplicationName="" CompanyName="" ShowUI="True" EnableSaveToFileButton="True" EnableSendReportButton="True" />
+  <ObfuscationSettings RenamingScheme="0" UseOverloadedFieldNames="False" UseOverloadedMethodNames="False" HonorObfuscationAttributes="True" ExcludeSerializedTypes="True" ProcessInlineStrings="True" ForceXAMLProcessingModeExclude="False" ForceRenameParams="False" />
+  <ObfuscationRules>
+    <Rule Type="0" Target="63" Visibility="31" Pattern="wc:UploaderServices.UploadStatus.*" BaseClassPattern="" Enabled="True" ImmediateParentOnly="True" />
+  </ObfuscationRules>
+  <Assembly Load="true" Path=".\bin\Debug\FileLaserUploader.exe" XapEntryName="" KeyFilePath="" CertFilePath="" TimeStampURL="" Embed="True" AddExceptionReporting="False" PfxPassword="" PfxPasswordCert="">
+    <ObfuscationSettings EncryptStrings="True" SuppressReflector="False" ReduceMetaData="False" ObfuscationDisposition="0" FlowObfuscation="2" SuppressILDASM="False" SuppressReflection="False" CombineResources="True" EncryptResources="True" CompressResources="True" MarkAsSealed="False" EnableTamperDetection="False" EnableAntiDebugging="False" SymbolRenaming="True" HideExternalCalls="False" HideInternalCalls="False" GeneratePdbFile="True" ObfuscatePdbFileNames="True" Encrypt="False" Compress="False" MSBuild="False" ObfuscatedNamespace="A" RetainNamespace="False">
+      <Watermarks Watermark0="" Watermark1="" Watermark2="" Watermark3="" Watermark4="" Watermark5="" Watermark6="" Watermark7="" Watermark8="" Watermark9="" />
+    </ObfuscationSettings>
+  </Assembly>
+  <WarningSuppressions />
+  <Warnings SaveWarningsToFile="" FailOnUnsuppressedWarning="False" SaveSuppressedWarnings="True" SaveUnsuppressedWarnings="True" />
+  <Filters />
+</Project>

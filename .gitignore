@@ -1,0 +1,4 @@
+/FileLaserUploader/bin/*
+/FileLaserUploader/obj/*
+Thumbs.db
+*.suo

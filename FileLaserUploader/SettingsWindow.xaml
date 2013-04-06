@@ -1,0 +1,94 @@
+﻿<Window x:Class="FileLaserUploader.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Settings" Width="360" SizeToContent="Height" WindowStartupLocation="CenterScreen" Closed="WindowClosed" Icon="/FileLaserUploader;component/Resources/icon.ico" ResizeMode="NoResize">
+    <Grid Margin="15">
+
+        <StackPanel>
+            
+            <Grid VerticalAlignment="Top">
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0" Height="55" VerticalAlignment="Top" HorizontalAlignment="Stretch">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="5*"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Column="0" Grid.Row="0" Text="Username:" />
+
+                <TextBox Grid.Column="1" Name="UsernameBox" Margin="0,0,0,4" HorizontalAlignment="Stretch" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="2" Text="Password:" />
+
+                    <PasswordBox Name="PasswordBox" Grid.Column="1" Grid.Row="2" Margin="0,0,0,4" KeyUp="PasswordBoxKeyUp" />
+
+                </Grid>
+
+                <Button Grid.Column="1" Margin="10, 0, 0, 0" Height="25" Name="RemoveButton" VerticalAlignment="Center" Width="26" Click="RemoveButtonClicked" IsEnabled="True" Visibility="Collapsed">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Height="16" Source="/FileLaserUploader;component/Resources/remove.png" Width="16" />
+                    </StackPanel>
+                </Button>
+
+            </Grid>
+
+            
+            <Grid Margin="0, 10, 0, 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0"> 
+                    <RadioButton Content="Use system proxy settings" Height="16" HorizontalAlignment="Left" Name="UseSystemRadio" VerticalAlignment="Top" GroupName="Proxy" IsChecked="True" />
+                    <RadioButton Content="User defined proxy" Height="16" HorizontalAlignment="Left" Name="UserDefinedRadio" VerticalAlignment="Top" GroupName="Proxy" Unchecked="UserDefinedRadioUnchecked" Checked="UserDefinedRadioChecked" />
+
+                    <TextBox Name="ProxyAddressBox" Width="180" Margin="5" Visibility="Collapsed"></TextBox>
+                    
+                    
+                    <RadioButton Content="Disable proxy" Height="16" HorizontalAlignment="Left" Name="DisableProxyRadio" VerticalAlignment="Top" GroupName="Proxy" />
+
+
+                </StackPanel>
+
+                <TextBlock Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Top"><Hyperlink Click="ProxySettingsLinkClicked">Proxy settings</Hyperlink></TextBlock>
+
+                
+            </Grid>
+            
+
+            <Grid Margin="0 30 0 0" Height="Auto">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+
+                <Button Height="39" HorizontalAlignment="Right" Grid.Column="1" Name="SaveSettingsButton" VerticalAlignment="Top" Width="140" FontSize="16" Click="SaveSettingsButtonClicked">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="Resources/ok.png" Width="16" Height="16" />
+                        <TextBlock VerticalAlignment="Center" Margin="5, 0, 0, 0">Save settings</TextBlock>
+                    </StackPanel>
+                </Button>
+
+                <Button VerticalAlignment="Bottom"  Content="Cancel" Height="25" HorizontalAlignment="Left" Grid.Column="0" Name="CancelButton" Width="71" Click="CancelButtonClicked" />
+
+
+            </Grid>
+
+        </StackPanel>
+
+    </Grid>
+    
+</Window>
